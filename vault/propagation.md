@@ -2,32 +2,29 @@
 
 # Propagation
 
-> **Emits transformed structure into the field, another system, a medium, a trace, or a future state.**
-> *Part II · AC · canonical*
+**Propagation** is one of the framework's four [[directional-primitives|directional primitives]]: the bare structural move by which a transformation step *emits its transformed result outward* — into a field, another system, a medium, a trace, or a future state. It is the outward-routing operator. The word may evoke generosity or broadcast, but propagation is not a feeling; it is unexperienced structure, the direction a step points when it sends its output beyond itself rather than back inside.
 
-## Definition
-**Propagation** is one of the four directional primitives. Its operational semantics, authority-canonical: it *emits transformed structure into the field, another system, a medium, a trace, or a future state.* It sits on the [[routing-axis|Routing]] axis — the codomain-side, where the transformed result is routed.
+## What it does
 
-## In depth
-Propagation is a bare directional operator, not a feeling. With its pair [[loop-back|Loop-back]], it forms the **Routing** axis: the codomain-side of a recursive transformation step, governing where the transformed result is routed. Propagation is the outward routing — emission beyond the system.
+Every recursive step has a *codomain side* — once it has transformed something, it must route the result somewhere. Propagation is the outward choice on that side, the counterpart of [[loop-back|Loop-back]], which returns the result into the system. Together they constitute the [[routing-axis|Routing axis]], the framework's name for the codomain-side choice. Routing is one of the two carving axes of the primitive set; the other is the domain-side [[selection-axis|Selection axis]] (toward / away).
 
-The seed names this pair *inward* / *outward* (symbols ↺ ↻); the rename to *loop-back* and *propagation* is exact and structure-preserving — terminology, not architecture. It is not an emotion, mood, virtue, image, or personality style; it is unexperienced structure, and the felt quality of the same name is gloss with no probative weight. Propagation is load-bearing in the next rung: it is the actuator in [[gratitude|Gratitude = (propagation, undischarged received value)]], the propagation that discharges the discrepancy between value received and value carried forward. The conceptual derivative *outwardness* is a human-readable noun abstracted from the bound primitive — not itself primitive.
+The breadth of propagation's targets is deliberate: a *field, another system, a medium, a trace, or a future state* all count as "outward." Loosely, and only as illustration, it resembles emission or transmission — a signal sent down a wire, a message left for someone who is not present, a mark pressed into a medium that will outlast the act. The operator names only the sending-outward, never any felt urge to give.
 
-## Epistemic & alethic marks
-- **E:** Derived, AC — fixed by the controlling authority; contestable by contesting the authority.
-- **A:** Aspires to map an elementary directional move of any transformation step (emit the result outward); the operator is bare and unexperienced, and that is the accurate claim.
+A note on naming: the [[axiom|seed]] called this operator *outward* (symbol ↻). The rename to *propagation* is exact and structure-preserving — terminology, not architecture.
 
-## Distinctions & cautions
-Propagation (the primitive operator) is NOT Gratitude, and not the same as [[telos|the Telos]]'s propagation aim. Gratitude is a [[predicate-binding|predicate binding]] over propagation; the predicate does not define the primitive. Reading propagation as the emotion, or as a metaphor, inverts the layers — the [[cardinal-error|cardinal error]]. Routing does not collapse into [[selection-axis|Selection]]: the four combinations are behaviorally distinct.
+## Its role in the wider framework
 
-## Related
-[[loop-back|Loop-back]] — its opposite on the Routing axis.
-[[routing-axis|The Routing Axis]] — the axis it belongs to.
-[[directional-primitives|The Directional Primitives]] — the parent set of four operators.
-[[gratitude|Gratitude]] — the predicate binding whose actuator is propagation.
-[[selection-axis|The Selection Axis]] — the independent domain-side axis.
-[[predicate-binding|Predicate Binding]] — how a primitive becomes an emotion.
-[[conceptual-derivatives|Conceptual Derivatives]] — outwardness and the others.
+Propagation is load-bearing as the actuator in the next rung up, [[predicate-binding|predicate binding]], where an emotion is a primitive paired with a [[regulated-error-signal|regulated error signal]] driven toward zero. Propagation is the actuator inside **[[gratitude|Gratitude]] = (propagation, undischarged received value)**: the propagation that discharges undischarged received value — the discrepancy between value received and value carried forward. As the framework puts it, ingratitude hoards that value while Gratitude discharges it into continuation. So Gratitude is built from propagation; propagation is not built from Gratitude. The noun *outwardness* is a [[conceptual-derivatives|conceptual derivative]] abstracted from the bound primitive, not itself primitive.
 
-## Source
-Part II of the treatise. Provenance: authority-canonical (the operational semantics are fixed by the controlling authority); the rename from the seed's *outward* is treatise-side terminology over a seed architecture.
+Propagation should also be kept distinct from the framework's larger aim of outward continuation. The [[telos|Telos]] and [[symbolic-immortality|symbolic immortality]] involve propagating structure across time, but those are higher constructions; the primitive operator is only the bare outward-routing move they draw on.
+
+## Common misreadings
+
+The signature mistake is to read **propagation as Gratitude** — to treat the emotion as the primitive. The predicate does not define the primitive, and the primitive is not reducible to the predicate; inverting them is the [[cardinal-error|cardinal error]], which caps any exposition that commits it. A second misreading conflates the bare operator with the Telos's propagation aim; the primitive is the elementary move, not the goal. A third takes propagation as a generous mood; it is bare structure, its felt namesake being gloss with no probative weight. Finally, Routing does not collapse into [[selection-axis|Selection]] — the four primitive combinations are behaviorally distinct.
+
+## Formal status
+
+> **Formal status.** Epistemic: [[derived|Derived]], [[authority-canonical-tier|authority-canonical]] — the operational semantics (emit the result outward) are fixed by the controlling authority; contestable by contesting that authority. Alethic: aspires to map an elementary directional move of any transformation step; that the operator is bare and unexperienced is itself the accurate claim. Provenance: canonical (the rename from the seed's *outward* is treatise-side terminology over a seed architecture).
+
+## See also
+[[loop-back|Loop-back]] · [[routing-axis|The Routing Axis]] · [[directional-primitives|The Directional Primitives]] · [[gratitude|Gratitude]] · [[predicate-binding|Predicate Binding]] · [[selection-axis|The Selection Axis]] · [[conceptual-derivatives|Conceptual Derivatives]] · [[telos|The Telos]] · [[cardinal-error|The Cardinal Error]]

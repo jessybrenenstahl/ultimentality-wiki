@@ -2,32 +2,33 @@
 
 # The Routing Axis
 
-> **The codomain-side axis of a transformation step — where the transformed result is routed — carrying the primitives loop-back / propagation.**
-> *Part II · FT (no-fewer) / CV (exactly-four) · canonical carving*
+**The Routing axis** is the framework's name for the *codomain side* of any transformation step — the choice of where a step sends its transformed result. It carries two of the four [[directional-primitives|directional primitives]]: [[loop-back|Loop-back]] (route the result back into the system) and [[propagation|Propagation]] (emit the result outward). Where the companion [[selection-axis|Selection axis]] governs *what a step admits or excludes*, Routing governs *what happens to the result once the step has run*. The two axes together are how the framework explains why the primitives number exactly four.
 
-## Definition
-A recursive transformation step has two formal sides. The **Routing** axis is the **codomain-side** — where the transformed result is routed. It carries the two primitives [[loop-back|Loop-back]] (route structure back into the system) and [[propagation|Propagation]] (emit structure outward).
+## The carving idea
 
-## In depth
-The primitive set is *carved* at four through two axes, not merely listed. Routing is the codomain-side of that carving; the [[selection-axis|Selection]] axis is the domain-side. The two axes are **independent**: routing cannot collapse into selection and selection cannot collapse into routing, because the four combinations — admit-and-retain, admit-and-emit, exclude-and-retain, exclude-and-emit — are behaviorally distinct.
+The framework insists the primitive set is not merely *listed* at four but *carved* at four. The carving claim: a recursive transformation step has two formal sides — a domain side (Selection) and a codomain side (Routing) — and each side is a binary choice. The product **{toward, away} × {loop-back, propagation}** then yields the four primitives. Routing supplies the second factor. This is the point where the [[contestability-gradient|contestability gradient]] becomes visible, because the count's two halves are held with different strength.
 
-So the primitive space is the product **{toward, away} × {loop-back, propagation}** — the four primitives, *no fewer*, since the axes are independent and neither pair is droppable. The Selection/Routing decomposition is retained because it is load-bearing twice over: it generates both the emotion set and the [[force|Force]] set. Only the *exhaustiveness* (the no-more claim) is exposed to challenge. The seed names this routing pair *inward* / *outward*; the rename to loop-back / propagation is exact and structure-preserving.
+A note on names: the [[axiom|seed]] called the routing pair *inward* and *outward* (symbols ↺ ↻); the rename to *loop-back* and *propagation* is exact and structure-preserving — terminology over an unchanged architecture.
 
-## Epistemic & alethic marks
-- **E:** Derived. The *no-fewer* claim is FT — the four combinations are behaviorally distinct by construction, contestable only by declining the carving. The *exactly-four / no-more* claim is CV, contestable by counter-instance, and the benchmark independently treats four-primitive sufficiency as an [[open-proof-burden|open proof-burden]].
-- **A:** The decomposition aspires to map the real structure of a transformation step and maps it well — the surrender is of closure, not of accuracy. A contestable carving can still be the most accurate carving available, exactly as the no-possession condition predicts.
+## Why no fewer than four
 
-## Distinctions & cautions
-Routing is NOT a hierarchy or a closure exempt from challenge. The four-primitive set is held as a *contestable carving*: the [[the-2026-adversarial-run|2026 adversarial run]] found candidate motions (e.g. a memory/temporal operation) the two-axis carving does not obviously contain. Magnitude, timing, medium, gain, threshold, and channel describe *how* a step occurs and add no third directional side; the hold/maintain stress test resolves cleanly (hold is identity; maintain is identity or active loop-back at zero current error).
+The two axes are **independent**: Routing cannot collapse into Selection, and Selection cannot collapse into Routing. The independence is shown behaviorally — the four combinations *admit-and-retain, admit-and-emit, exclude-and-retain, exclude-and-emit* are genuinely distinct. Because neither axis can be dropped without losing distinctions, the primitive set cannot fall below four. This *no-fewer* claim is held as [[frame-internal-tier|frame-internal]]: it follows by construction, contestable only by declining the carving. Routing's independence is what makes [[loop-back|loop-back]] and [[propagation|propagation]] irreducible to the Selection moves rather than special cases of them.
 
-## Related
-[[selection-axis|The Selection Axis]] — the independent domain-side axis.
-[[loop-back|Loop-back]] — the inward-routing primitive on this axis.
-[[propagation|Propagation]] — the outward-routing primitive on this axis.
-[[directional-primitives|The Directional Primitives]] — the four operators carved by the two axes.
-[[contestability-gradient|The Contestability Gradient]] — FT-to-CV exposure the carving illustrates.
-[[the-2026-adversarial-run|The 2026 Adversarial Run]] — the counter-instance source.
-[[open-proof-burden|The Open Proof-Burden]] — the benchmark's open status for four-primitive sufficiency.
+The Selection/Routing decomposition is kept throughout because it is load-bearing twice over: it generates both the emotion set (via [[predicate-binding|predicate binding]]) and the [[force|Force]] set.
 
-## Source
-Part II of the treatise. Provenance: the carving is canonical (the four semantics are authority-fixed), but its *exhaustiveness* is held contestable (treatise-side demotion to a contestable carving, on a benchmark-flagged open proof-burden); the seed's *inward/outward* underlies the rename.
+## Why "no more" is only contested
+
+The framework's argument that the two axes are *exhaustive* — that there is no third directional side — is strong as a mapping. Magnitude, timing, medium, gain, threshold, and channel all describe *how* a step occurs, not a new direction it can take; and the hold/maintain stress test resolves cleanly (hold is identity; maintain is identity or active loop-back at zero current error). Even so, the [[the-2026-adversarial-run|2026 adversarial run]] surfaced candidate motions — a memory or temporal operation, for instance — that the two-axis carving does not obviously contain. So the *exactly-four / no-more* claim is held as a [[carving-tier|carving / count]] claim, contestable by counter-instance, and the benchmark treats four-primitive sufficiency as an [[open-proof-burden|open proof-burden]].
+
+The upshot: the four-primitive set is a **contestable carving** — the most accurate carving available, not a sealed closure. A carving can be the best one going without being final, exactly as the framework's no-possession condition predicts.
+
+## Common misreadings
+
+Routing is not a hierarchy and not a challenge-proof closure. It must not be confused with the *content* of what is routed — loop-back and propagation name only the direction (home vs. outward), not the value carried. And it must be kept distinct from the higher-order aims it feeds: the bare propagation operator is not the same as the [[telos|Telos]]'s outward continuation. Finally, Routing does not collapse into [[selection-axis|Selection]]; the four combinations are behaviorally distinct.
+
+## Formal status
+
+> **Formal status.** Epistemic: [[derived|Derived]]. The *no-fewer* claim is [[frame-internal-tier|frame-internal]] — the four combinations are behaviorally distinct by construction, contestable only by declining the carving. The *exactly-four / no-more* claim is [[carving-tier|carving/count]], contestable by counter-instance, and the benchmark treats four-primitive sufficiency as an [[open-proof-burden|open proof-burden]]. Alethic: the decomposition aspires to map the real structure of a transformation step and maps it well — the surrender is of closure, not of accuracy. Provenance: the carving is canonical (the four semantics are authority-fixed); its exhaustiveness is treatise-side demoted to a contestable carving on a benchmark-flagged open burden; the seed's *inward/outward* underlies the rename.
+
+## See also
+[[selection-axis|The Selection Axis]] · [[loop-back|Loop-back]] · [[propagation|Propagation]] · [[directional-primitives|The Directional Primitives]] · [[contestability-gradient|The Contestability Gradient]] · [[the-2026-adversarial-run|The 2026 Adversarial Run]] · [[open-proof-burden|The Open Proof-Burden]] · [[carving-tier|The Carving Tier]] · [[frame-internal-tier|The Frame-Internal Tier]] · [[force|Force]]

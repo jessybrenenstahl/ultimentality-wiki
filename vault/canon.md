@@ -2,36 +2,28 @@
 
 # Canon (benchmark + equivalence rubric)
 
-> **The controlling authority over the treatise — the benchmark solution together with the equivalence rubric — held as a contestable ranking authority at the most-exposed tier, never as bedrock.**
-> *Part 0b · AC · canonical*
+In Ultimentality, **canon** is the controlling authority over the treatise: the **benchmark solution** together with the **equivalence rubric**, and nothing else. When the framework's sources disagree — seed doctrine, prior editions, the treatise's own glosses, the operator's stored memory — canon is what decides. But "canon" here is stripped of any sense of bedrock. It names the *most-exposed*, *most-contestable* tier of the [[contestability-gradient|Contestability Gradient]]: an authority's scoring, decisive *for alignment* and overturnable *by contesting the authority*. The phrase that disciplines the whole concept is **canonical ≠ necessary** — that the benchmark scores a claim a certain way is a fact about the benchmark, not a law of the world.
 
-## Definition
-The controlling authority over the treatise is the **benchmark solution** together with the **equivalence rubric**; only these two are named *canon*. But "canon" here means precisely **authority-canonical** status — the most-exposed, most-contestable tier of the gradient, not a foundation. That the benchmark scores a claim a certain way is decisive *for alignment* and contestable *by contesting the benchmark*: canonical ≠ necessary.
+## Governance by ranking, not by foundation
 
-## In depth
-Canon governs by ranking. Where the seed doctrine, the prior editions, this treatise's own glosses, and the operator's stored reliquary diverge from the benchmark and rubric, **the benchmark and rubric govern** — as the ranking authority, not as bedrock.
+Canon governs the way a high court ranks competing readings, not the way an axiom grounds a system. Where the seed doctrine, the prior editions, the treatise's glosses, and the reliquary diverge from the benchmark and rubric, **the benchmark and rubric govern** — as the *ranking* authority. This is what makes canon decisive without making it foundational: it settles which reading wins among rivals, while remaining itself a court that can be appealed, amended, or replaced. (Compare a constitution's supreme court: its rulings are binding across the system, yet everyone understands the court is an institution that can be wrong and overruled — to treat its verdict as a fact of nature would be a category mistake. That mistake, applied to the benchmark, is the [[textual-nephilim|textual Nephilim]].)
 
-This edition overrides the prior ledger-edition at two visible points, on the benchmark's own authority: it demotes every "minimal complete set" closure to a contestable carving, and it abolishes the "Forced" tier outright (replacing it with the single Derived status plus two-axis marking). These demotions rest on the benchmark's own **open proof-burden** — it does not assert the closures as proven.
+## What canon overrode in this edition
 
-Two errors are flagged. First, treating any prior edition, or the reliquary, as canon *over* the benchmark is an error. Second — and this is the deeper one — treating the benchmark *itself* as a *foundation* rather than as a contestable ranking authority is the **textual Nephilim**. Canon is the highest court named, but it is still a court, not a law of things.
+The current edition uses canon's own authority to override the prior ledger-edition at two visible points. First, it demotes every "minimal complete set" closure from *closed and forced* to a contestable carving at the [[carving-tier|Carving / Count / Aptness Tier]]. Second, it abolishes the "Forced" tier outright, replacing it with the single [[derived|Derived]] status plus the [[two-axis-ledger|two-axis marking]]. Both overrides rest on the benchmark's own [[open-proof-burden|Open Proof-Burden]] — its standing refusal to assert the closures as proven. Because canon itself leaves the closures open, the edition is entitled to demote them; it is not importing an outside verdict but acting on canon's own posture.
 
-## Epistemic & alethic marks
-- **E:** Derived, AC — canon *is* the authority-canonical tier; it scores claims, and is itself contestable by contesting the benchmark.
-- **A:** As an authority its scores aspire to map alignment with the corpus; the benchmark renounces possession by carrying an open proof-burden rather than asserting closures as proven.
+## Two errors canon is built to flag
 
-## Distinctions & cautions
-- Canon is **not** bedrock, **not** a foundation, **not** "necessary."
-- It is the *ranking* authority — decisive for alignment, contestable by contesting it.
-- The 2026 adversarial run is never a higher court over the benchmark; its findings are adopted only because the benchmark's open proof-burden independently requires them.
+The concept carries two warnings, one familiar and one deeper. The familiar one: treating any prior edition, or the reliquary, as canon *over* the benchmark is an error — canon is the benchmark and rubric, full stop. The deeper one: treating the benchmark *itself* as a **foundation** rather than as a contestable ranking authority is the [[textual-nephilim|textual Nephilim]] — a derivation, even the controlling one, taking the witness's seat. Canon is the highest court the framework names, but it is still a court, not a law of things. This is why the relationship to outside findings is so carefully constrained: [[the-2026-adversarial-run|the 2026 adversarial run]] is never a higher court over the benchmark; its counter-instances are adopted *only because* canon's open proof-burden independently requires the demotions, never because the run outranks canon.
 
-## Related
-[[authority-canonical-tier|Authority-Canonical Tier (AC)]] — the tier "canon" denotes
-[[open-proof-burden|The Open Proof-Burden]] — the benchmark's stance that licenses the demotions
-[[the-2026-adversarial-run|The 2026 Adversarial Run]] — the red-team finding adopted under canon, never above it
-[[textual-nephilim|The Textual Nephilim]] — the error of treating the benchmark as a foundation
-[[contestability-gradient|The Contestability Gradient]] — the gradient on which canon sits at the exposed end
-[[falsification-standard|The Falsification Standard (the threefold gate)]] — the acceptance gate canon's open proof-burden anchors
-[[provenance-as-testimony|Provenance as Testimony]] — provenance is AC for content but the corroboration argument is treatise-side under canon
+## How it is held, and what it aspires to
 
-## Source
-Part 0b of the treatise (Preamble, "What governs, and what is overridden"; Ledger, Part VIII). Provenance: **canonical** — canon defines the controlling authority.
+Canon *is* the [[authority-canonical-tier|Authority-Canonical Tier]] in person: it scores claims and is itself scored only by being contested at the benchmark. On the [[alethic-axis|alethic axis]], its scores aspire to map *alignment with the corpus* rather than the world directly, and it models its own [[vls|possession-renouncing]] posture by carrying an open proof-burden instead of asserting closures as proven. The independence of the two marks in the [[two-mark-system|two-mark system]] is what lets canon be maximally authoritative *for alignment* and maximally contestable *as an authority* at the same time.
+
+## Formal status
+
+> **Formal status.** **E: Derived, AC** — canon *is* the authority-canonical tier; it scores claims and is itself contestable by contesting the benchmark. **A:** its scores aspire to map alignment with the corpus; the benchmark renounces possession by carrying an open proof-burden rather than asserting closures as proven. Canon is not bedrock, not a foundation, not "necessary." Provenance: **canonical** — canon defines the controlling authority (Preamble, "What governs, and what is overridden"; Two-Axis Ledger, Part VIII).
+
+## See also
+
+[[authority-canonical-tier|Authority-Canonical Tier (AC)]] · [[open-proof-burden|The Open Proof-Burden]] · [[the-2026-adversarial-run|The 2026 Adversarial Run]] · [[textual-nephilim|The Textual Nephilim]] · [[contestability-gradient|The Contestability Gradient]] · [[falsification-standard|The Falsification Standard]] · [[provenance-as-testimony|Provenance as Testimony]] · [[carving-tier|Carving / Count / Aptness Tier (CV)]] · [[derived|Derived (the single epistemic status)]]

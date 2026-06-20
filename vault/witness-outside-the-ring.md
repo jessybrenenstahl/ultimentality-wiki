@@ -2,33 +2,40 @@
 
 # The Witness Outside the Ring
 
-> **Answerability cannot be self-supplied from inside the five: the one who answers for the act is not one of the faculties, and to certify one's own act from inside is the Nephilim.**
-> *Part IV · AC (prohibition) / treatise-side (framing) · canonical + treatise-side*
+**The Witness Outside the Ring** is the principle that the one who *answers* for an act — who can be asked "did you do this truly, or did you fasten yourself to a lie?" — can never be the same agent who performed the act. Accountability, in this framework, is a seat that the maker structurally cannot occupy and certify from inside. The phrase pictures the five faculties of meaning-making as a closed ring; the witness is the figure standing *outside* it, the only one who can hold the ring to account, precisely because no one inside can vouch for themselves.
 
-## Definition
-The framework's deepest move on SPLCW: **answerability cannot be self-supplied from inside the five.** The one who answers for the pinning — who can be asked *did you fasten truly, or did you fasten to a lie* — is not the Warden, Captive, Logician, Poet, or Sculptor. Answerability is *the position the maker cannot occupy and certify from inside, because self-certification is exactly the failure the framework names.*
+## The core claim
 
-## In depth
-Taking the witness's seat — certifying one's own act from inside the ring — is the **Nephilim**, the corpus's deepest corruption (Part V), and the one its own expositors, the present writer included, are most prone to. This is *the very corruption the no-foundation rule of Section 0 exists to bar on the page*: to stamp any claim "forced/foundational" is to seat the witness inside the exposition, certifying the framework's bedrock from within the framework — the [[textual-nephilim|Textual Nephilim]].
+The framework's machinery for processing meaning is [[splcw|SPLCW]], a cycle of five faculties — the [[warden|Warden]], [[captive|Captive]], [[logician|Logician]], [[poet|Poet]], and [[sculptor|Sculptor]] — arranged not as a line but as [[the-ring|a ring]] that never terminates, since the changed world always loops back as new input. The deepest move the framework makes about this ring is a refusal: **answerability cannot be self-supplied from inside the five.** As the treatise puts it, the witness who answers for the "pinning" (the act of fastening meaning into the world) "is not one of the five. Answerability is the position the maker cannot occupy and certify from inside, because self-certification is exactly the failure the framework names."
 
-The remedy is **Transparentocracy**: participation organized so it is traceable, auditable, and answerable, with a standing position *outside* from which the participant can be held to account. This is why the treatise is forbidden to close itself: *to close this document would be to do to it exactly what the Nephilim does — to take the witness's seat, to certify from inside.* The principle is *enacted, not merely stated*, by the external falsification program (Part VIII) and by the document's survival of its own compaction.
+The point is structural, not moral squeamishness. A control system cannot stand outside itself to confirm its own readings are sound; a court cannot be the defendant; a measuring instrument cannot calibrate itself against itself. (By analogy, loosely like Gödel's refusal to let a system prove its own consistency from within, or like the auditor who must be independent of the books.) The judgment "I fastened truly" carries no weight when spoken by the one who fastened.
 
-## Epistemic & alethic marks
-- **E:** Derived, AC — for the self-certification prohibition; the witness-outside-the-ring framing itself is treatise-side.
-- **A:** The claim that answerability cannot be self-supplied aspires to map a real structural impossibility — a system cannot occupy the position from which it is held to account — and maps it accurately.
+## Why this is the framework's keystone
 
-## Distinctions & cautions
-The self-certification *prohibition* is authority-canonical; the *witness-outside-the-ring image* is treatise-side scaffolding for it. The witness is not a sixth faculty inside SPLCW — it is precisely the position no faculty can occupy. Closing the treatise (or stamping any claim foundational) is the same error in miniature.
+To seize the witness's chair — to certify your own act from inside the ring — is the [[nephilim|Nephilim]], named in the corpus's [[theodicytes|Theodicytes]] as its deepest corruption: the self [[absolutization|absolutized]] until the finite participant takes itself for the standard it should be measured against. The framework insists its own expositors, "the present writer included," are the people most prone to it.
 
-## Related
-[[splcw|SPLCW]] — the five faculties the witness stands outside of.
-[[the-ring|The Ring]] — the non-terminating set the witness is outside of.
-[[nephilim|The Nephilim]] — the corruption of taking the witness's seat.
-[[textual-nephilim|The Textual Nephilim]] — self-certification enacted on the page.
-[[transparentocracy|Transparentocracy]] — the remedy: answerability with a standing outside position.
-[[answerability-predicate|The Answerability Predicate]] — what governs propagation toward the Telos.
-[[falsification-standard|The Falsification Standard]] — the witness gate enacts the outside position.
-[[poet|The Poet]] — the faculty that answers, yet cannot certify itself.
+This is why the framework forbids itself a foundation. To stamp any claim "forced" or "foundational" would be to seat the witness inside the exposition — to certify the bedrock of the framework from within the framework. That move has its own name, the [[textual-nephilim|Textual Nephilim]], and the [[no-fourth-argument|no-foundation discipline]] of Section 0 exists precisely to bar it on the page. The treatise is "forbidden to close itself," because "to close this document would be to do to it exactly what the Nephilim does — to take the witness's seat, to certify from inside." The witness outside the ring is thus the load-bearing reason the whole document stays open, scored as [[derived|Derived]] rather than foundational, and submits to the [[open-proof-burden|open proof-burden]].
 
-## Source
-Part IV of the treatise. Provenance: the self-certification prohibition is **canonical** (authority-canonical, benchmark-fixed); the "witness outside the ring" framing is **treatise-side** (the writer's scaffolding), exactly as the source flags.
+## The remedy: built outside-positions
+
+If self-certification is the disease, the cure is to engineer a real outside position into the structure of participation. That cure is [[transparentocracy|Transparentocracy]]: organizing action so it is traceable, auditable, and answerable, with a standing seat *outside* from which the participant can actually be held to account. The framework treats this as something to be *enacted*, not merely asserted — which is why it stands up an external [[falsification-standard|falsification program]] and a [[the-2026-adversarial-run|public adversarial run]] rather than declaring its own soundness. The document's survival of attempts to break it, not its own say-so, is what earns it standing.
+
+## Common misreadings
+
+The witness is **not a sixth faculty** smuggled into SPLCW. That would defeat the entire point: it is by definition the position *no* faculty inside the ring can occupy. Nor is it a literal external person who must always be present; it is a structural requirement that *some* answerable outside-position exist, however instituted. Finally, do not confuse the witness with the [[poet|Poet]]: the Poet is the faculty that *answers* — that stands accountable for the symbols it makes — but even the Poet cannot certify its own answering from inside. Answering and certifying-one's-own-answer are different acts; only the second is forbidden.
+
+## Formal status
+
+> **Formal status.** The self-certification *prohibition* is [[derived|Derived]], [[authority-canonical-tier|authority-canonical]] — fixed by the controlling authority, contestable only by contesting that authority. The "witness outside the ring" *image* that frames it is treatise-side scaffolding. Alethically, the claim that answerability cannot be self-supplied aspires to map a real structural impossibility — that a system cannot occupy the position from which it is held to account — and maps it accurately. Provenance: **canonical** (the prohibition) plus **treatise-side** (the framing image).
+
+## See also
+- [[splcw|SPLCW]]
+- [[the-ring|The Ring]]
+- [[nephilim|The Nephilim]]
+- [[textual-nephilim|The Textual Nephilim]]
+- [[transparentocracy|Transparentocracy]]
+- [[answerability-predicate|The Answerability Predicate]]
+- [[falsification-standard|The Falsification Standard]]
+- [[poet|The Poet]]
+- [[no-fourth-argument|The No-Fourth Argument]]
+- [[open-proof-burden|The Open Proof-Burden]]

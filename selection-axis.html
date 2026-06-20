@@ -2,7 +2,7 @@
 <html lang="en"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>The Selection Axis · Ultimentality</title>
-<meta name="description" content="← Ultimentality Wiki index.html The Selection Axis The domain side axis of a transformation step — what is admitted or excluded — carrying the primiti">
+<meta name="description" content="← Ultimentality Wiki index.html The Selection Axis The Selection axis is the framework&#x27;s name for the domain side of any transformation step — the cho">
 <link rel="stylesheet" href="style.css">
 <script>window.MathJax={tex:{inlineMath:[['$','$']],displayMath:[['$$','$$']]}};</script>
 <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
@@ -131,76 +131,101 @@
 </nav></aside>
 <div class="main"><article class="content"><div class="crumb"><a href="index.html">Home</a> / The Selection Axis</div><p><a href="index.html">← Ultimentality Wiki</a></p>
 <h1 id="the-selection-axis">The Selection Axis</h1>
+<p><strong>The Selection axis</strong> is the framework's name for the
+<em>domain side</em> of any transformation step — the choice of what a
+step admits and what it excludes. It carries two of the four <a
+href="directional-primitives.html">directional primitives</a>: <a
+href="toward.html">Toward</a> (admit or increase coupling) and <a
+href="away.html">Away</a> (exclude or decrease coupling). Where the
+companion <a href="routing-axis.html">Routing axis</a> governs <em>where
+the result goes</em>, Selection governs <em>what gets let in to begin
+with</em>. Together the two axes are how the framework explains why
+there are exactly four primitives rather than some other number.</p>
+<h2 id="the-carving-idea">The carving idea</h2>
+<p>A central move of the framework is that the primitive set is not
+merely <em>listed</em> at four; it is <em>carved</em> at four. Listing
+four things is arbitrary; carving derives the count from structure. The
+carving claim is that a recursive transformation step has two formal
+sides — a domain side (Selection) and a codomain side (Routing) — each a
+binary choice. The product of the two binaries, <strong>{toward, away} ×
+{loop-back, propagation}</strong>, yields the four primitives. Selection
+supplies the first factor.</p>
+<p>This is where the <a
+href="contestability-gradient.html">contestability gradient</a> bites:
+different parts of the claim are held with different firmness. The
+framework separates a <em>no-fewer</em> claim from a <em>no-more</em>
+claim, and treats them very differently.</p>
+<h2 id="why-no-fewer-than-four">Why no fewer than four</h2>
+<p>The two axes are <strong>independent</strong>: Selection cannot
+collapse into Routing, and Routing cannot collapse into Selection. The
+proof of independence is behavioral — the four combinations
+<em>admit-and-retain, admit-and-emit, exclude-and-retain,
+exclude-and-emit</em> are genuinely distinct in what they do. Because
+neither axis can be dropped without losing distinctions, the primitive
+set cannot shrink below four. This <em>no-fewer</em> claim is held as <a
+href="frame-internal-tier.html">frame-internal</a> (tautological): the
+distinctness follows by construction, so the only way to refuse it is to
+decline the carving itself.</p>
+<p>The Selection/Routing decomposition is retained throughout the
+framework because it is load-bearing twice over: it generates both the
+emotion set (through <a href="predicate-binding.html">predicate
+binding</a>) and the <a href="force.html">Force</a> set. Its usefulness
+is not in dispute.</p>
+<h2 id="why-no-more-is-only-contested">Why "no more" is only
+contested</h2>
+<p>The harder claim is <em>no more than four</em> — that the two axes
+exhaust the elementary sides of a step. The framework's argument is
+genuinely strong as a mapping: magnitude, timing, medium, gain,
+threshold, and channel all describe <em>how</em> a step occurs and add
+no third directional side, and the hold/maintain stress test resolves
+cleanly. But the <a href="the-2026-adversarial-run.html">2026
+adversarial run</a> surfaced candidate motions — for example a memory or
+temporal operation — that the two-axis carving does not obviously
+contain. So the <em>exactly-four / no-more</em> claim is held as a <a
+href="carving-tier.html">carving / count</a> claim: apt and defensible,
+but contestable by counter-instance. The framework's own benchmark
+independently treats four-primitive sufficiency as an <a
+href="open-proof-burden.html">open proof-burden</a>.</p>
+<p>The honest position, then, is that the four-primitive set is a
+<strong>contestable carving</strong> — the most accurate carving
+available, not a closure exempt from challenge. As the framework's
+no-possession stance predicts, a carving can be the best available
+without being final.</p>
+<h2 id="common-misreadings">Common misreadings</h2>
+<p>Selection is not a ranking or hierarchy of primitives, and it is not
+a sealed, challenge-proof closure. A specific historical error must be
+flagged: prior editions invented "emotion-generator" axes — {toward,
+away} × {relation, integrity} — and even a later {toward, away} ×
+{relation, value-ledger} pair. <strong>There are no such axes in the
+corpus</strong>; they are withdrawn. The genuine domain-side axis is
+Selection, full stop.</p>
+<h2 id="formal-status">Formal status</h2>
 <blockquote>
-<p><strong>The domain-side axis of a transformation step — what is
-admitted or excluded — carrying the primitives toward / away.</strong>
-<em>Part II · FT (no-fewer) / CV (exactly-four) · canonical
-carving</em></p>
+<p><strong>Formal status.</strong> Epistemic: <a
+href="derived.html">Derived</a>. The <em>no-fewer</em> claim is <a
+href="frame-internal-tier.html">frame-internal</a> — the four
+combinations are behaviorally distinct by construction, contestable only
+by declining the carving. The <em>exactly-four / no-more</em> claim is
+<a href="carving-tier.html">carving/count</a>, contestable by
+counter-instance, and the benchmark treats four-primitive sufficiency as
+an <a href="open-proof-burden.html">open proof-burden</a>. Alethic: the
+decomposition aspires to map the real structure of a transformation step
+and maps it well — the surrender is of closure, not of accuracy.
+Provenance: the carving is canonical (the four semantics are
+authority-fixed), but its exhaustiveness is treatise-side demoted to a
+contestable carving on a benchmark-flagged open burden.</p>
 </blockquote>
-<h2 id="definition">Definition</h2>
-<p>A recursive transformation step has two formal sides. The
-<strong>Selection</strong> axis is the <strong>domain-side</strong> —
-what is admitted or excluded. It carries the two primitives <a
-href="toward.html">Toward</a> (admit / increase coupling) and <a
-href="away.html">Away</a> (exclude / decrease coupling).</p>
-<h2 id="in-depth">In depth</h2>
-<p>The primitive set is not merely <em>listed</em> at four; it is
-<em>carved</em> at four through two axes, and this is where the <a
-href="contestability-gradient.html">contestability gradient</a> bites.
-Selection is the domain-side of that carving; the <a
-href="routing-axis.html">Routing</a> axis is the codomain-side. The two
-axes are <strong>independent</strong>: routing cannot collapse into
-selection and selection cannot collapse into routing, because the four
-combinations — admit-and-retain, admit-and-emit, exclude-and-retain,
-exclude-and-emit — are behaviorally distinct.</p>
-<p>So the primitive space is the product <strong>{toward, away} ×
-{loop-back, propagation}</strong> — the four primitives, <em>no
-fewer</em>, since the axes are independent and neither pair is
-droppable. The Selection/Routing decomposition is retained because it is
-illuminating and load-bearing twice over: it generates both the emotion
-set and the <a href="force.html">Force</a> set. Only the
-<em>exhaustiveness</em> (the no-more claim) is exposed to challenge.</p>
-<h2 id="epistemic--alethic-marks">Epistemic &amp; alethic marks</h2>
-<ul>
-<li><strong>E:</strong> Derived. The <em>no-fewer</em> claim is FT — the
-four combinations are behaviorally distinct by construction, contestable
-only by declining the carving. The <em>exactly-four / no-more</em> claim
-is CV, contestable by counter-instance, and the benchmark independently
-treats four-primitive sufficiency as an <a
-href="open-proof-burden.html">open proof-burden</a>.</li>
-<li><strong>A:</strong> The decomposition aspires to map the real
-structure of a transformation step and maps it well — the surrender is
-of closure, not of accuracy. A contestable carving can still be the most
-accurate carving available, exactly as the no-possession condition
-predicts.</li>
-</ul>
-<h2 id="distinctions--cautions">Distinctions &amp; cautions</h2>
-<p>Selection is NOT a hierarchy or a closure exempt from challenge. The
-four-primitive set is held as a <em>contestable carving</em>: the <a
-href="the-2026-adversarial-run.html">2026 adversarial run</a> found
-candidate motions (e.g. a memory/temporal operation) the two-axis
-carving does not obviously contain. The invented "emotion-generator"
-axes of prior editions — {toward, away} × {relation, integrity} — are
-withdrawn; they are not in the corpus. The correct domain-side axis is
-Selection.</p>
-<h2 id="related">Related</h2>
-<p><a href="routing-axis.html">The Routing Axis</a> — the independent
-codomain-side axis. <a href="toward.html">Toward</a> — the admitting
-primitive on this axis. <a href="away.html">Away</a> — the excluding
-primitive on this axis. <a href="directional-primitives.html">The
-Directional Primitives</a> — the four operators carved by the two axes.
-<a href="contestability-gradient.html">The Contestability Gradient</a> —
-FT-to-CV exposure the carving illustrates. <a
-href="the-2026-adversarial-run.html">The 2026 Adversarial Run</a> — the
-counter-instance source. <a href="open-proof-burden.html">The Open
-Proof-Burden</a> — the benchmark's open status for four-primitive
-sufficiency.</p>
-<h2 id="source">Source</h2>
-<p>Part II of the treatise. Provenance: the carving is canonical (the
-four semantics are authority-fixed), but its <em>exhaustiveness</em> is
-held contestable (treatise-side demotion to a contestable carving, on a
-benchmark-flagged open proof-burden).</p>
-<div class="backlinks"><h2>Linked from (15)</h2><ul><li><a href="away.html">Away</a></li><li><a href="conceptual-derivatives.html">Conceptual Derivatives</a></li><li><a href="directional-primitives.html">The Directional Primitives</a></li><li><a href="force.html">Force (the ⊕ coupled-controller)</a></li><li><a href="formal-closure-claim.html">The Formal Closure Claim</a></li><li><a href="index.html">Ultimentality — Wiki</a></li><li><a href="kill-table.html">The Kill-Table</a></li><li><a href="loop-back.html">Loop-back</a></li><li><a href="love.html">Love = (toward, relational gap)</a></li><li><a href="opposed-gradient-contention.html">Opposed-Gradient Contention</a></li><li><a href="propagation.html">Propagation</a></li><li><a href="routing-axis.html">The Routing Axis</a></li><li><a href="sequential-gating.html">Sequential Gating</a></li><li><a href="submission.html">Submission = Love ⊕ Fear</a></li><li><a href="toward.html">Toward</a></li></ul></div></article></div>
+<h2 id="see-also">See also</h2>
+<p><a href="routing-axis.html">The Routing Axis</a> · <a
+href="toward.html">Toward</a> · <a href="away.html">Away</a> · <a
+href="directional-primitives.html">The Directional Primitives</a> · <a
+href="contestability-gradient.html">The Contestability Gradient</a> · <a
+href="the-2026-adversarial-run.html">The 2026 Adversarial Run</a> · <a
+href="open-proof-burden.html">The Open Proof-Burden</a> · <a
+href="carving-tier.html">The Carving Tier</a> · <a
+href="frame-internal-tier.html">The Frame-Internal Tier</a> · <a
+href="force.html">Force</a></p>
+<div class="backlinks"><h2>Linked from (19)</h2><ul><li><a href="away.html">Away</a></li><li><a href="axiom.html">The Axiom</a></li><li><a href="conceptual-derivatives.html">Conceptual Derivatives</a></li><li><a href="directional-primitives.html">The Directional Primitives</a></li><li><a href="fear.html">Fear</a></li><li><a href="force.html">Force (the ⊕ coupled-controller)</a></li><li><a href="formal-closure-claim.html">The Formal Closure Claim</a></li><li><a href="index.html">Ultimentality — Wiki</a></li><li><a href="kill-table.html">The Kill-Table</a></li><li><a href="loop-back.html">Loop-back</a></li><li><a href="love.html">Love</a></li><li><a href="opposed-gradient-contention.html">Opposed-Gradient Contention</a></li><li><a href="propagation.html">Propagation</a></li><li><a href="reconciliation.html">Reconciliation</a></li><li><a href="routing-axis.html">The Routing Axis</a></li><li><a href="sequential-gating.html">Sequential Gating</a></li><li><a href="submission.html">Submission</a></li><li><a href="the-2026-adversarial-run.html">The 2026 Adversarial Run</a></li><li><a href="toward.html">Toward</a></li></ul></div></article></div>
 </div>
 <script src="app.js"></script>
 </body></html>

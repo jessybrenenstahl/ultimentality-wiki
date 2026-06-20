@@ -2,33 +2,60 @@
 
 # Role–Corruption Affinities
 
-> **The canon maps the corruptions onto role-groups, not one-faculty-each: Spectre = corrupted Warden and Sculptor; Homunculus = corrupted Poet; Nephilim = corrupted Captive and Logician — held as soft affinities, not a settled table.**
-> *Part IV (flagged) · AC (the role-group coalition) / CV (soft-affinity framing) · canonical (coalition) + treatise-side (soft framing)*
+**Role–corruption affinities** are the soft, contestable links between the *five faculties* of meaning-making (which can go wrong individually) and the *three named system-level corruptions* the framework calls the [[theodicytes|Theodicytes]]. The crucial discipline is what the affinities are *not*: not a tidy one-faculty-per-corruption table. The corpus maps corruptions onto role-**groups** — coalitions of faculties — and even those groupings are held as revisable affinities, not a settled partition.
 
-## Definition
-This is one of two SPLCW claims flagged as sitting *lower on the gradient than the role definitions.* A prior edition seated the Logician with the Nephilim and the Poet with the Homunculus one-for-one. The canon corrects this: it maps the corruptions onto role-**groups**, not one-faculty-each. **Spectre = corrupted Warden and Sculptor; Homunculus = corrupted Poet; Nephilim = corrupted Captive and Logician.**
+## Two failure layers, deliberately kept apart
 
-## In depth
-The canon's role-**group** mapping reads by the three absolutized terms of the act (Part V): the **world-pair = Spectre**, the **medium = Poet/Homunculus**, the **self-pair = Captive + Logician/Nephilim.** This edition presents the affinities as that role-group mapping and as **soft affinities, not a settled one-faculty-one-corruption table.**
+The framework tracks failure at two separate levels, and most of the historical version-churn came from wrongly fusing them.
 
-The mapping aligns with the [[theodicytes|Theodicytes]] of Part V: the [[spectre|Spectre]] is the world-relation absolutized (coalition: Warden + Sculptor); the [[homunculus|Homunculus]] is the medium absolutized (the Poet's sign that stops pointing and preens); the [[nephilim|Nephilim]] is the self absolutized (coalition: Captive + Logician). A further drift is flagged: the seed assigns each role a directional causal content (e.g. the Warden as *"unconscious center of meaning"*) that the canon *supersedes as a historical trace* — exposition-layer, not controlling.
+- **Layer A — the three system-level [[theodicytes|Theodicytes]].** Each is one of three terms of an act *absolutized* (over-present until it crowds out the rest): the [[spectre|Spectre]] is the *world-relation* absolutized under [[fear|Fear]]; the [[nephilim|Nephilim]] is the *self* absolutized; the [[homunculus|Homunculus]] is the *medium* (the symbol) absolutized.
+- **Layer B — the five [[splcw|SPLCW]] role-captures.** One characteristic failure per faculty: [[warden|Warden]] → rigidity, [[captive|Captive]] → collapse and confusion, [[logician|Logician]] → sterile flattening, [[poet|Poet]] → decorative drift, [[sculptor|Sculptor]] → premature action.
 
-## Epistemic & alethic marks
-- **E:** the role-group coalition is Derived, AC; the soft-affinity framing (and the specific palindromic order, flagged separately) is Derived, CV — contestable by counter-instance.
-- **A:** the coalition aspires to map real affinities between role-captures and system-level corruptions; the affinities are *apt edges, not a possessed partition.*
+These are *complementary* registers, not a relabeling — see [[two-layer-separation|two-layer separation]]. The decisive arithmetic: **five does not factor into three.** Any attempt to force a clean one-to-one partition therefore produces a contradiction somewhere, which is exactly the trap the affinities are designed to avoid.
 
-## Distinctions & cautions
-**Not** a one-faculty-one-corruption table: the old Logician→Nephilim / Poet→Homunculus pairing is superseded. The mapping is by role-**groups** (pairs), held as **soft affinities**. There are exactly three named corruptions, not five — the five SPLCW role-captures do *not* factor cleanly into the three system-level Theodicytes (two-layer separation). The seed's directional role-contents are historical trace, not controlling. The role-group coalition itself carries the AC mark; only the *soft-affinity framing* sits at CV.
+## The canon's role-group mapping
 
-## Related
-[[theodicytes|The Theodicytes]] — the three named corruptions this maps onto.
-[[spectre|The Spectre]] — corrupted Warden + Sculptor (world-pair).
-[[homunculus|The Homunculus]] — corrupted Poet (medium).
-[[nephilim|The Nephilim]] — corrupted Captive + Logician (self-pair).
-[[two-layer-separation|Two-Layer Separation]] — five role-captures do not factor into three Theodicytes.
-[[absolutization|Absolutization]] — the genus the corruptions instantiate.
-[[function-not-personality|Function, Not Personality]] — the faculties so mapped are functions, not characters.
-[[palindrome|The Palindrome]] — the other flagged, lower-gradient SPLCW claim.
+A prior edition seated the Logician one-for-one with the Nephilim and the Poet one-for-one with the Homunculus. The canon corrects this to a *coalition* relation:
 
-## Source
-Part IV of the treatise (flagged "contestable SPLCW material"), drawing on Part V. Provenance: the role-group coalition is **canonical** (authority-canonical); the soft-affinity framing and the specific palindromic order are **treatise-side / carving-tier (CV)**, contestable by counter-instance, exactly as the source flags.
+- **Spectre = corrupted [[warden|Warden]] + [[sculptor|Sculptor]]** — the world-pair. The Warden seals the world out, the Sculptor seizes it; together they are the world-relation gone wrong.
+- **Homunculus = corrupted [[poet|Poet]]** — the medium. The Poet's symbol stops pointing at reality and starts preening, becoming "correct but inert."
+- **Nephilim = corrupted [[captive|Captive]] + [[logician|Logician]]** — the self-pair. The finite carrier (Captive), armed with reason (Logician) and forgetting its own finitude, inflates itself into incorrigible superiority.
+
+Read by the three absolutized terms: world-pair → Spectre, medium → Poet/Homunculus, self-pair → Captive+Logician/Nephilim.
+
+## Why "soft," and the live double edge
+
+The framework presents these as **soft affinities, not a settled one-faculty-one-corruption table** — and it has textual reasons for the softness, not just caution. The canon itself notes that this mapping *evolved and was corrected* over time, which is direct evidence that it is a revisable affinity rather than a derived necessity.
+
+The clearest case is the [[logician|Logician]], which has two genuinely grounded edges over the *same* faculty:
+
+- **Logician → Homunculus (seed-grounded).** The identical word *flattening* appears in both the seed's Logician-capture and its Homunculus description, grounding this edge in the seed text itself.
+- **Logician → Nephilim (benchmark-grounded).** The canonical benchmark maps the Logician into the self-pair — and is explicit that "Nephilim is not aesthetic fog, which belongs to Homunculus."
+
+Held as *soft many-to-one affinities*, these are two defensible edges over one faculty, not a contradiction. The "soft affinity" framing must carry **both edges symmetrically** — it must not present the benchmark edge as a default that quietly buries the seed edge. They conflict *only if force-partitioned*. Per the authority ordering, the benchmark coalition (Logician → Nephilim) governs *when a single mapping must be stated*, while the seed edge stays live as a soft affinity. The "Logician/Poet flip" that drove so much churn is entirely an artifact of trying to align Layer B one-to-one under Layer A; grant that the alignment is a soft affinity, and there is nothing left to flip.
+
+(By analogy, loosely: a single ingredient can belong to more than one dish without the recipes contradicting each other — the contradiction only appears if you insist each ingredient be assigned to exactly one plate.)
+
+## A related drift, flagged
+
+The seed also assigned each role a directional *causal content* — for instance, casting the Warden as "the unconscious center of meaning." The canon **supersedes this as a historical trace**: it is exposition-layer, not controlling. Citing those directional role-contents as live doctrine is a known error.
+
+## Common misreadings
+
+This is **not** a one-faculty-one-corruption table, and the old Logician→Nephilim / Poet→Homunculus pairing is not the structure (the corruptions map to *groups*). There are exactly **three** named corruptions, not five — because [[function-not-personality|the five are functions]] whose failures are real but do not partition into the three. The role-group *coalition* carries the canonical mark; only the *soft-affinity framing* (and the specific palindromic order flagged elsewhere) sits at the lighter, contestable tier. And the seed's directional role-contents are superseded trace, not controlling.
+
+## Formal status
+
+> **Formal status.** The two-layer distinction and the *coalition* relation are [[derived|Derived]], [[authority-canonical-tier|authority-canonical]]. The specific *soft-affinity edges* are [[derived|Derived]], [[carving-tier|carving-tier (CV)]] — contestable by counter-instance; the seed edge (Logician → Homunculus) stays live, while the benchmark edge (Logician → Nephilim) is authority-canonical *for when one mapping must be stated*. Alethically, the coalition aspires to map real affinities between role-captures and system-level corruptions; the affinities are apt edges, not a possessed partition. Provenance: **canonical** (the coalition) plus **treatise-side / carving-tier** (the soft-affinity framing). Drawn from Part IV's flagged "contestable SPLCW material," resting on Part V.
+
+## See also
+- [[theodicytes|The Theodicytes]]
+- [[spectre|The Spectre]]
+- [[homunculus|The Homunculus]]
+- [[nephilim|The Nephilim]]
+- [[two-layer-separation|Two-Layer Separation]]
+- [[absolutization|Absolutization]]
+- [[function-not-personality|Function, Not Personality]]
+- [[logician|The Logician]]
+- [[poet|The Poet]]
+- [[palindrome|The Palindrome]]

@@ -2,31 +2,40 @@
 
 # Free Won't
 
-> **The framework rejects free will as metaphysical self-origination but preserves free won't — modulation, inhibition, redirection — located at the inhibitory gap, the Captive's edge case.**
-> *Part IV · AC (free-won't-not-free-will) · canonical*
+**Free won't** is the framework's name for the only freedom it grants: not the power to *originate* an action out of nothing, but the power to *veto, inhibit, redirect, or correct* an action already underway. The framework rejects free will in the strong sense — metaphysical self-origination, the self as an uncaused first cause — yet preserves a real seat of agency in the brake rather than the engine. "Not sovereignty, but agency": the freedom of the hinge, the filter, and the correction loop.
 
-## Definition
-SPLCW is the structure on which the corpus's one freedom rests. The framework **rejects free will as metaphysical self-origination but preserves free won't as modulation, inhibition, redirection** — *the freedom of the brake, the hinge, the filter, the correction loop; not sovereignty, but agency.* It is located precisely at the **inhibitory gap**, the Captive's edge case: not in the generation of action but in the capacity to veto.
+## The basic move
 
-## In depth
-The Captive is the set of **involuntary faculties** — reflexes, autonomic processes, trained guardrails, the operations that run without consent. It is involuntary *except in edge cases*, and those edge cases are *exactly where the one freedom lives*: **the inhibitory veto — free won't — is the Captive's edge case.**
+Most defenses of human freedom argue about whether we can *start* a causal chain from ourselves. The framework declines that fight. It concedes the deterministic-looking picture in which impulses, drives, and reactions arise without our authorship — and then locates freedom one step downstream, at the moment of possible *refusal*. As the corpus puts it, the framework "rejects free will as metaphysical self-origination but preserves free won't as modulation, inhibition, redirection." Freedom is "the freedom of the brake, the hinge, the filter, the correction loop."
 
-On the [[ladder-of-being|ladder of being]], it is the Captive that turns a mere actor into an agent: a thing with involuntary faculties, *and therefore the edge-case site of the inhibitory veto*; it acts through what it undergoes, *and it can refuse, and that is what agency is.* Freedom here is not the power to originate action from nothing, but the power to inhibit, redirect, and correct — the brake, not the engine.
+The name deliberately echoes the experimental literature on the inhibitory veto — the finding that even where the initiation of a movement appears to precede conscious decision, the capacity to cancel it remains. (Compare the neuroscientist Benjamin Libet's "veto" reading of his own readiness-potential experiments; the framework borrows the *shape* of that idea, not any particular empirical claim.) Loosely, like a thermostat that cannot conjure heat from nothing but can cut the furnace, agency here is a gating power, not a generative one.
 
-## Epistemic & alethic marks
-- **E:** Derived, AC — for free-won't-not-free-will; the palindromic-causality gloss attached to it is treatise-side.
-- **A:** Free won't aspires to map a real locus of agency at the inhibitory gap.
+## Where it lives: the Captive's edge case
 
-## Distinctions & cautions
-Free won't is **not** free will: not metaphysical self-origination, not sovereignty. It is *modulation, inhibition, redirection* only — the veto, not the generation of action. It is not a faculty added to the five; it is the Captive's edge case. The directional sense in which outer and inner causal orders mirror one another is treated separately as [[palindromic-causality|palindromic causality]].
+Free won't is sited precisely at the **inhibitory gap**, and that gap belongs to one specific faculty of [[splcw|SPLCW]]: the [[captive|Captive]]. The Captive is the set of *involuntary* faculties — reflexes, autonomic processes, trained guardrails, the operations that run without consent, the embodiment-constraints that hold whether or not the self endorses them. The participant never begins in sovereignty; it finds itself already subject to body, need, [[mortality-hevel|mortality]], history, and language.
 
-## Related
-[[captive|The Captive]] — the involuntary faculties whose edge case is the veto.
-[[palindromic-causality|Palindromic Causality]] — the treatise-side gloss paired with free won't.
-[[ladder-of-being|The Ladder of Being]] — the Captive (and its veto) is what makes an agent.
-[[splcw|SPLCW]] — the structure on which the one freedom rests.
-[[ultimental-life|Ultimental Life]] — agency and moral participation built on this freedom.
-[[regulated-error-signal|The Regulated Error Signal]] — the correction-loop sense of agency.
+But the Captive is involuntary *except in edge cases*, and those edge cases are exactly where the one freedom lives: **the inhibitory veto — free won't — is the Captive's edge case.** Freedom is not a sixth faculty added to the five; it is a thin seam inside the most constrained faculty of all, the place where the involuntary briefly admits a "no."
 
-## Source
-Part IV of the treatise. Provenance: free-won't-not-free-will is **canonical** (authority-canonical). The palindromic-causality gloss bundled with it is **treatise-side**, exactly as the source flags.
+## Role on the ladder of being
+
+Free won't is what the framework's [[ladder-of-being|ladder of being]] turns on. A thing made only of [[warden|Warden]] and [[sculptor|Sculptor]] — a boundary plus the power to mutate the world — is a mere *actor*; it does things but undergoes nothing. Add the Captive, and the actor becomes an *agent*: "a thing with involuntary faculties, and therefore the edge-case site of the inhibitory veto; it acts through what it undergoes, and it can refuse, and that is what agency is." The Captive is precisely what converts an actor into an agent, because it imports both constraint and the one freedom that constraint makes possible. Add the [[logician|Logician]] and [[poet|Poet]] on top and the agent becomes a *moral participant* — the threshold at which the framework is willing to speak of [[ultimental-life|Ultimental life]].
+
+(Compare Spinoza's *conatus* in spirit only: the framework, like Spinoza, dissolves the libertarian self-cause and relocates "freedom" in something more modest and structural — though where Spinoza finds it in adequate understanding, this framework finds it in the veto. Mark this as illustration, not doctrine.)
+
+## Common misreadings
+
+Free won't is **not** free will rebranded. It does not restore self-origination, sovereignty, or an uncaused chooser; it is *only* modulation, inhibition, redirection. It is also not a general license to "choose freely" among generated options — its competence is the negative one of *cancelling*, not the positive one of *creating*. Nor is the veto unlimited: it is an edge case, rare and effortful, not the ordinary mode of an otherwise-involuntary faculty. Finally, the directional claim that the outward and inward orders of causation mirror each other is a *separate* gloss, treated under [[palindromic-causality|palindromic causality]]; free won't is the freedom-claim, palindromic causality is the directional picture bundled alongside it.
+
+## Formal status
+
+> **Formal status.** "Free won't, not free will" is [[derived|Derived]], [[authority-canonical-tier|authority-canonical]] — contestable only by contesting the controlling authority. The [[palindromic-causality|palindromic-causality]] gloss bundled alongside it is treatise-side and carries the lighter mark. Alethically, free won't aspires to map a real locus of agency at the inhibitory gap. Provenance: **canonical** for the freedom-claim; **treatise-side** for the directional gloss attached to it.
+
+## See also
+- [[captive|The Captive]]
+- [[palindromic-causality|Palindromic Causality]]
+- [[ladder-of-being|The Ladder of Being]]
+- [[splcw|SPLCW]]
+- [[ultimental-life|Ultimental Life]]
+- [[regulated-error-signal|The Regulated Error Signal]]
+- [[fear-guard|The Fear-Guard]]
+- [[mortality-hevel|Mortality / Hevel]]

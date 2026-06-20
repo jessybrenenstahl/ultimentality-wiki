@@ -2,31 +2,35 @@
 
 # The Visitation
 
-> **The nascency of the framework, roughly thirteen to fourteen years ago — its first part the author's own, written before the framework existed; the load-bearing provenance datum.**
-> *Part VII · Testimony · canonical-provenance (held as testimony)*
+**The Visitation** is the name Ultimentality gives to the earliest stretch of its own history — the framework's nascency, roughly thirteen to fourteen years ago — and, more precisely, to a piece of writing from that period whose *first part* the author composed before the framework existed at all. Within the framework's account of where it came from, the Visitation is singled out as "the load-bearing provenance datum": the one historical fact that, if any could, would seem to carry real evidential weight, because it predates the very structure it would be used to support.
 
-## Definition
-The Visitation is the earliest of the three eras in which the framework's history is held. It marks the framework's nascency, roughly thirteen to fourteen years ago. Its first part is the author's own work, written *before* the framework existed — which is what makes it, within the era ledger, "the load-bearing provenance datum."
+## What it refers to
 
-## In depth
-The framework's history is held throughout as **testimony**: given in 2026 by its author, who is the sole authority on her own history; not independently verified, not lived or witnessed by the writer; all of it 2026-sourced. The Visitation is the first of the three eras so held. What distinguishes it from the other two is that its first part precedes the framework itself — it is prior to the structure it later seeded, which is why the era ledger names it the *load-bearing* provenance datum.
+Ultimentality is a philosophical and technical framework that holds itself to an unusual discipline about its own origins. Rather than asserting a tidy creation story, it lays out three named eras and labels each one explicitly as [[provenance-as-testimony|testimony]] — the author's own 2026 account of her own past. The Visitation is the first of those three eras. Its distinguishing feature is temporal priority: its opening part was written *before* there was any framework to defend, so it cannot be the product of motivated back-construction. That is the entire force of calling it "load-bearing." The other two eras — [[the-anarchy-accountant|the Anarchy Accountant]], an older reader-voted work that supplies an alternate dating origin, and [[the-seekers-lament|the Seeker's Lament]], the recent formalization that fixes the corpus's quality bar — surround it in the timeline but do not share that pre-framework standing.
 
-Note the discipline that governs the whole ledger: dated-precedence claims are held as testimony, not as proof. A prior edition's superlative — calling the provenance ledger "the strongest single piece of evidence" — was scored by the 2026 run as a **Nephilim-kill**, a self-certified externally-unanchored superlative that the corpus's own kill-table forbids. So the conformant treatment is to keep the Visitation's dating as testimony (unverifiable) and shift the evidential weight elsewhere — to [[coalescence-by-non-contradictory-fit|coalescence-by-non-contradictory-fit]].
+## How its evidential weight is handled
 
-## Epistemic & alethic marks
-- **E:** Derived, Testimony — the author's 2026 account, unverifiable, contestable as any testimony is.
-- **A:** the dating aspires to map a real history the writer cannot independently confirm; the mapping's accuracy rests on the author's standing as sole authority on her own history, not on external verification.
+Here the framework does something most origin stories never do: it *demotes* its own strongest-looking card. An earlier edition described the provenance record as "the strongest single piece of evidence" for the framework. The [[the-2026-adversarial-run|2026 adversarial run]] scored that superlative as a **Nephilim-kill** — a self-certified, externally unanchored boast of exactly the kind the corpus's own [[kill-table|kill-table]] forbids. (Compare a witness in a courtroom who, asked how reliable his testimony is, answers "the most reliable you will ever hear": the claim convicts itself by trying to be its own judge.) The framework names this failure mode the [[textual-nephilim|textual Nephilim]] — a derivation that climbs into the seat reserved for the witness who would hold it to account.
 
-## Distinctions & cautions
-It is NOT independently verified, NOT witnessed by the writer. It is "load-bearing" only as the provenance datum — its weight is precedence-as-testimony, not demonstration. Treating the dated precedence as "the strongest single piece of evidence" is the [[textual-nephilim|textual Nephilim]] move and is forbidden; the weight rests on fit, not date.
+The conformant treatment, therefore, is to keep the Visitation's dating exactly where it belongs: as testimony, unverifiable in principle, and not as proof of anything. The evidential burden is then deliberately shifted off dated precedence and onto a sturdier pillar — [[coalescence-by-non-contradictory-fit|coalescence-by-non-contradictory-fit]], the argument that the framework's cross-domain coherence is harder to fabricate than any single date. The Visitation remains the load-bearing *provenance* datum; it does not become the load-bearing *evidential* one.
 
-## Related
-[[the-anarchy-accountant|The Anarchy Accountant]] — the second era, an alternate dating origin
-[[the-seekers-lament|The Seeker's Lament]] — the third era, the present formalization
-[[provenance-as-testimony|Provenance as Testimony]] — the status under which all three eras are held
-[[coalescence-by-non-contradictory-fit|Coalescence-by-Non-Contradictory-Fit]] — where the evidential weight actually rests
-[[textual-nephilim|The Textual Nephilim]] — the self-certification the Nephilim-kill scoring caught
-[[kill-table|The Kill-Table]] — the standing record that forbids the self-certified superlative
+## Role in the wider framework
 
-## Source
-Part VII of the treatise ("Provenance & Evidential Status"). Provenance: held as **testimony** — the author's 2026 account, the canonical record of the framework's history, but explicitly unverifiable and contestable. The demotion of dated precedence (away from "strongest single evidence") is enforced by the corpus's own integrity rule; the Nephilim-kill scoring that triggered it is a red-team-run-side finding, not benchmark canon.
+The Visitation is where the framework's epistemic humility first bites on its own biography. It would be easy, and tempting, to let a thirteen-year-old pre-framework manuscript function as a trump card. The corpus refuses, on pain of committing the very sin ([[absolutization|over-presence]], a claim seating itself as bedrock) that it diagnoses everywhere else. So the era is held with two hands at once: as a real memory the writer cannot independently confirm, and as a claim that must stay contestable because all testimony is. This is the same discipline the [[keystone|keystone]] applies to the whole corpus — a strong mirror that renounces possession — applied here to a single date.
+
+## Common misreadings
+
+- Treating the Visitation as *proof* of the framework's pedigree. It is testimony, not demonstration; its dating cannot be externally verified.
+- Reviving the "strongest single piece of evidence" framing. That is the precise self-certification the [[textual-nephilim|textual Nephilim]] names and the [[kill-table|kill-table]] kills.
+- Confusing "load-bearing" with "decisive." It is load-bearing *as the provenance datum* — the weight of precedence-held-as-testimony — not as a settled fact about the world.
+
+> **Formal status.** *Part VII (Provenance & Evidential Status).* **E: Derived, Testimony** — the author's 2026 account, unverifiable, contestable as any testimony is. **A:** the dating aspires to map a real history the writer cannot independently confirm; the mapping's accuracy rests on the author's standing as sole authority on her own history, not on external verification. Provenance: **canonical record held as testimony**; the demotion away from "strongest single evidence" is enforced by the corpus's own [[integrity-rule|integrity rule]], with the Nephilim-kill scoring being a red-team-run-side finding, not benchmark canon.
+
+## See also
+- [[the-anarchy-accountant|The Anarchy Accountant]] — the second era, an alternate dating origin.
+- [[the-seekers-lament|The Seeker's Lament]] — the third era, the present formalization.
+- [[provenance-as-testimony|Provenance as Testimony]] — the status under which all three eras are held.
+- [[coalescence-by-non-contradictory-fit|Coalescence-by-Non-Contradictory-Fit]] — where the evidential weight is actually placed.
+- [[textual-nephilim|The Textual Nephilim]] — the self-certification the Nephilim-kill caught.
+- [[kill-table|The Kill-Table]] — the standing record forbidding the self-certified superlative.
+- [[keystone|The Keystone]] — the strong-mirror standing the same discipline expresses.

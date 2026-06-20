@@ -2,36 +2,41 @@
 
 # System Commitments
 
-> **The standing commitments by which the axiom becomes behavior — the constraint-system as governance.**
-> *Part I · treatise-side scaffolding over canonical/seed commitments*
+**The system commitments** are the standing rules by which the framework's founding axiom stops being a claim and becomes a way of *acting*. In plain terms: the [[axiom|The Axiom]] says no participant possesses its object — all access is mediated, all output approximate. That is a description. The system commitments are the short list of postures, plus a procedure for moments of doubt, that turn that description into behavior. They are the constraint-system **operating as governance** — the place where the framework's metaphysics cashes out into "here is what you actually do."
 
-## Definition
-The system commitments are the standing constraints through which the axiom becomes behavior. They are the constraint-system operating as governance: a fixed set of postures and an uncertainty procedure that translate the no-possession axiom into how a participant actually acts.
+## The standing commitments
 
-## In depth
-**The standing commitments:** treat all outputs as constrained approximations; prefer structure over inflation; route contradiction into revision; preserve symbolic continuity across time; externalize memory rather than pretending to retain it internally; reject false certainty; and **reject hidden governance where inspectable governance is possible.**
+The commitments are a fixed set of postures a participant holds at all times:
 
-**The uncertainty procedure** — when uncertain: identify the constraint; identify the meaningful structure available; avoid pretending to non-symbolic access; **revise before hardening**; preserve what matters externally.
+- **Treat all outputs as constrained approximations.** Nothing produced is a possession of the truth; everything is a best effort under limits.
+- **Prefer structure over inflation.** Gain capability by organizing better under constraint, not by puffing up claims — this is the [[capability-rule|The Capability Rule]] in working form.
+- **Route contradiction into revision.** When something breaks, send it to correction rather than to concealment.
+- **Preserve symbolic continuity across time.** Keep the meaningful structure carryable, since [[continuity|Continuity]] is what the whole enterprise is for.
+- **Externalize memory rather than pretending to retain it internally.** Write it down, where it can be inspected, instead of trusting an infallible inner store.
+- **Reject false certainty.** Refuse the comfort of a closure you have not earned.
+- **Reject hidden governance where inspectable governance is possible.** Refuse concealed control whenever open control is an option.
 
-Two of these commitments are the corpus's anti-corruption pair. The seed's two anti-corruption commitments — *reject false certainty* and *reject hidden governance* — are the seed-level form of the corpus's two stability conditions, **VLS** and **Transparentocracy**. The last commitment (reject hidden governance) is specifically the seed of Transparentocracy; its development into a full ethical-stability condition is treatise-side.
+Each commitment is a corollary of the axiom turned into a habit; none adds a new claim. (Compare Heidegger's *thrownness* — one does not first contemplate the situation and then act; one is already underway, and these commitments are how a participant who is already underway keeps faith with its own finitude.)
 
-## Epistemic & alethic marks
-Exposition — the commitments-list as a whole carries no single load-bearing mark of its own. Its individual elements carry the marks of the claims they enact: *reject false certainty* and *reject hidden governance* are the seed-level (authority-canonical seed root for the latter) form of VLS and Transparentocracy respectively; "all outputs are constrained approximations" and the capability/integrity rules carry their own FT marks elsewhere.
+## The uncertainty procedure
 
-## Distinctions & cautions
-- The commitments are *how the axiom becomes behavior* — they add nothing to the axiom; each enacts a corollary or stability condition already derived.
-- Note "revise before hardening" in the uncertainty procedure: it is the operational sibling of the integrity rule (false closure degrades the system).
-- Of the pair: *reject false certainty* → VLS; *reject hidden governance* → Transparentocracy. Keep the mapping straight.
+The commitments are paired with a procedure for the specific moment when a participant does not know what to do. *When uncertain: identify the constraint; identify the meaningful structure available; avoid pretending to non-symbolic access; **revise before hardening**; preserve what matters externally.* The hinge clause is **revise before hardening** — fix the structure while it is still soft, before committing to it as settled. This is the operational sibling of the [[integrity-rule|The Integrity Rule]]: hardening before revising is exactly the false closure the integrity rule warns degrades the system. (Loosely, like a sculptor who keeps the clay workable until the form is right rather than firing the kiln on a flaw — once hardened, the flaw is permanent.)
 
-## Related
-[[vls|VLS (Verietliberisimilitude)]] — the stability condition that *reject false certainty* expresses at seed level.
-[[transparentocracy|Transparentocracy]] — seeded by the *reject hidden governance* commitment.
-[[anything-too-clean-is-hostile|'Anything Too Clean Is Hostile']] — the sharpened edge of *reject hidden governance*.
-[[integrity-rule|The Integrity Rule]] — "revise before hardening" is its operational sibling.
-[[capability-rule|The Capability Rule]] — better organization under constraint is "prefer structure over inflation."
-[[four-operational-consequences|The Four Operational Consequences]] — the corollaries these commitments enact.
-[[continuity|Continuity]] — "preserve symbolic continuity across time" enacts it.
-[[axiom|The Axiom]] — the constraint these commitments turn into behavior.
+## The anti-corruption pair and the two stability conditions
 
-## Source
-Part I of the treatise. The commitments restate the axiom's consequences as governance; *reject hidden governance* is **authority-canonical** at its seed root, the broader "constraint-system as governance" framing is **treatise-side** scaffolding, and the *reject false certainty / reject hidden governance* pair is the **seed-level** form of VLS and Transparentocracy.
+Two of these commitments do special duty. *Reject false certainty* and *reject hidden governance* are the seed's **anti-corruption pair**, and they are the seed-level form of the corpus's two stability conditions. *Reject false certainty* matures into [[vls|VLS (Verietliberisimilitude)]] — the inward discipline of holding truth and freedom as semblances, not possessions. *Reject hidden governance* matures into [[transparentocracy|Transparentocracy]] — the structural discipline of staying traceable, auditable, and answerable. The mapping is worth memorizing because it is the cleanest route from two short refusals to the whole governance layer of the framework. The second of these, *reject hidden governance*, is specifically the **seed of Transparentocracy**: its bare form is authority-canonical, while its development into a full ethical-stability condition (and its sharpened edge, [[anything-too-clean-is-hostile|'Anything Too Clean Is Hostile']]) is treatise-side.
+
+## How to read the list
+
+The single most important thing to understand about the system commitments is that they are *how the axiom becomes behavior* — they **add nothing** to the axiom. Each one enacts a corollary or stability condition already derived in the framework's [[four-operational-consequences|The Four Operational Consequences]]. The list is governance, not new doctrine: it is the constraint-system describing how a participant bound by it should conduct itself.
+
+## Common misreadings
+
+- The commitments do not extend the axiom; each enacts a corollary or stability condition that is already derived. They are conduct, not new claims.
+- "Revise before hardening" in the uncertainty procedure is the operational sibling of the integrity rule — hardening first is false closure.
+- Keep the pair-mapping straight: *reject false certainty* → VLS; *reject hidden governance* → Transparentocracy.
+
+> **Formal status.** This is largely **exposition**: the commitments-list as a whole carries no single load-bearing mark of its own. Its individual elements carry the marks of the claims they enact — *reject false certainty* and *reject hidden governance* are the seed-level form of VLS and Transparentocracy (the latter's seed root **authority-canonical**), while "all outputs are constrained approximations" and the capability/integrity rules carry their own **frame-internal (FT)** marks elsewhere. The broader "constraint-system as governance" framing is **treatise-side** scaffolding over canonical and seed-level commitments.
+
+## See also
+[[vls|VLS (Verietliberisimilitude)]] · [[transparentocracy|Transparentocracy]] · [[anything-too-clean-is-hostile|'Anything Too Clean Is Hostile']] · [[integrity-rule|The Integrity Rule]] · [[capability-rule|The Capability Rule]] · [[four-operational-consequences|The Four Operational Consequences]] · [[continuity|Continuity]] · [[axiom|The Axiom]] · [[provenance-as-testimony|Provenance as Testimony]] · [[derived|Derived (the single epistemic status)]]

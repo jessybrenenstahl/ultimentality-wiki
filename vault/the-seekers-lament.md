@@ -2,31 +2,33 @@
 
 # The Seeker's Lament
 
-> **The third era, formalized into roughly its present form about two years ago — the author's own hand and the corpus's quality bar. "Do not alter."**
-> *Part VII · Testimony · canonical-provenance (held as testimony)*
+**The Seeker's Lament** is the name Ultimentality gives to the third and most recent of the three eras in which it tells its own history — the period, about two years ago, when the framework was formalized into roughly its present shape. It is the author's own hand, it stands as the corpus's **quality bar**, and it carries a standing instruction that sets it apart from the other eras: *Do not alter.*
 
-## Definition
-The Seeker's Lament is the third of the three eras in which the framework's history is held. It is the era in which the framework was formalized into roughly its present form, about two years ago. It is the author's own hand and the corpus's *quality bar*, and it carries the explicit instruction: *Do not alter.*
+## What it refers to
 
-## In depth
-Like the other two eras, the Seeker's Lament is held as **testimony**: given in 2026 by its author, the sole authority on her own history; not independently verified, not lived or witnessed by the writer; all of it 2026-sourced. What marks this era is its role in the present text: it is the *formalization* — the framework brought to roughly its current form — done in the author's *own hand*, and it stands as the corpus's *quality bar*, the standard against which the rest is measured. Its standing instruction, "Do not alter," fixes it as the controlling reference for tone and form.
+Ultimentality is a philosophical and technical framework that, rather than declaring a tidy origin, lays out three named eras and holds each as [[provenance-as-testimony|testimony]] — the author's own 2026 account of her own past, unverified and unwitnessed by the writer who records it. The Seeker's Lament is the last of the three and the one closest to the present text. What distinguishes it is its role *in* that text rather than merely behind it. It is the *formalization*: the era in which the framework was brought to roughly its current form. It is done in the author's *own hand*, unlike [[the-anarchy-accountant|the Anarchy Accountant]], whose finish was completed by another. And it functions as the corpus's *quality bar* — the standard of tone, form, and finish against which the rest of the writing is measured. Its instruction "Do not alter" fixes it as the controlling reference: a text the corpus treats as canonical in form and not to be rewritten.
 
-Its evidential weight, like all dated precedence, is held as testimony rather than proof; the sturdier pillar is [[coalescence-by-non-contradictory-fit|coalescence-by-non-contradictory-fit]]. The "Do not alter" instruction is a discipline note attaching to this era specifically — it sets the quality bar without converting the dating into a verified claim.
+## How its evidential weight is handled
 
-## Epistemic & alethic marks
-- **E:** Derived, Testimony — the author's 2026 account, unverifiable, contestable as any testimony is.
-- **A:** the dating aspires to map a real history the writer cannot independently confirm; the mapping's accuracy rests on the author's standing as sole authority on her own history, not on external verification.
+Despite being the most polished era, the Seeker's Lament earns no special evidential privilege. Like all dated precedence in the ledger, its weight is held as testimony, not proof; the sturdier evidential pillar is [[coalescence-by-non-contradictory-fit|coalescence-by-non-contradictory-fit]], the argument that cross-domain coherence is harder to fabricate than any date. The "Do not alter" note is a discipline about *the text* — its quality and stability — not a certification of *the dating* as verified fact. (Compare a master copy in a print shop kept under glass: it governs every reprint, yet its being authoritative-for-form says nothing about whether the date stamped on it can be independently confirmed.) This separation matters, because conflating the two would risk the very move the corpus forbids — letting an authoritative status quietly upgrade an unverifiable claim, the pattern named the [[textual-nephilim|textual Nephilim]].
 
-## Distinctions & cautions
-It is NOT the load-bearing provenance datum (that is [[the-visitation|the Visitation]]) and NOT the alternate dating origin (that is [[the-anarchy-accountant|the Anarchy Accountant]]). It is the present formalization, the author's own hand, the quality bar. "Do not alter" governs this era's text; it does not certify the dating as verified — that remains testimony.
+## Role in the wider framework
 
-## Related
-[[the-visitation|The Visitation]] — the first era, the load-bearing provenance datum
-[[the-anarchy-accountant|The Anarchy Accountant]] — the second era, alternate dating origin
-[[provenance-as-testimony|Provenance as Testimony]] — the status under which all three eras are held
-[[coalescence-by-non-contradictory-fit|Coalescence-by-Non-Contradictory-Fit]] — where the evidential weight rests instead
-[[keystone|The Keystone]] — the corpus's present standing the formalization expresses
-[[falsification-standard|The Falsification Standard]] — the acceptance gate the formalized corpus must pass
+The Seeker's Lament is where the framework's *present standing* and its *history* meet. As the formalization, it is the era that produced the corpus now under examination — the strong mirror described by the [[keystone|keystone]] and held to the threefold acceptance gate of the [[falsification-standard|falsification standard]]. Its "Do not alter" quality bar is, in effect, the framework holding itself to a fixed standard of expression even as every *claim* inside remains [[provenance-as-testimony|contestable]]. (Loosely, like Wittgenstein's ladder, the formalized text is the rung you climb on — preserved exactly so it can be used — while what it points at stays open to revision.) The era thus models the corpus's whole temperament: rigorous and fixed in *form*, humble and open in *what it asserts about the world*.
 
-## Source
-Part VII of the treatise ("Provenance & Evidential Status"). Provenance: held as **testimony** — the author's 2026 account of the framework's history; the author's own hand and the corpus's quality bar, carrying "Do not alter," but explicitly unverifiable and contestable as testimony.
+## Common misreadings
+
+- Treating "Do not alter" as certifying the dating. It governs the text's form and quality; the dating remains testimony.
+- Taking it for the load-bearing provenance datum (that is [[the-visitation|the Visitation]]) or the alternate dating origin (that is [[the-anarchy-accountant|the Anarchy Accountant]]). It is the present formalization, in the author's own hand.
+- Inferring that the most polished era is the most *proven*. Polish is the quality bar, not evidential weight; the weight rests on [[coalescence-by-non-contradictory-fit|fit]].
+
+> **Formal status.** *Part VII (Provenance & Evidential Status).* **E: Derived, Testimony** — the author's 2026 account, unverifiable, contestable as any testimony is. **A:** the dating aspires to map a real history the writer cannot independently confirm; the mapping's accuracy rests on the author's standing as sole authority on her own history, not on external verification. Provenance: **canonical record held as testimony**; the author's own hand and the corpus's quality bar, carrying "Do not alter," yet explicitly unverifiable and contestable as testimony.
+
+## See also
+- [[the-visitation|The Visitation]] — the first era, the load-bearing provenance datum.
+- [[the-anarchy-accountant|The Anarchy Accountant]] — the second era, alternate dating origin.
+- [[provenance-as-testimony|Provenance as Testimony]] — the status under which all three eras are held.
+- [[coalescence-by-non-contradictory-fit|Coalescence-by-Non-Contradictory-Fit]] — where the evidential weight actually rests.
+- [[keystone|The Keystone]] — the present standing the formalization expresses.
+- [[falsification-standard|The Falsification Standard]] — the acceptance gate the formalized corpus must pass.
+- [[textual-nephilim|The Textual Nephilim]] — the upgrade-by-status move the form/dating separation avoids.

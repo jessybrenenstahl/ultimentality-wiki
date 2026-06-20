@@ -2,33 +2,41 @@
 
 # The Two-Axis Ledger
 
-> **Every load-bearing claim carried with two independent marks — an epistemic mark (Derived, at its contestability tier) and an alethic mark (its mapping-accuracy aspiration) — the columns never predicting each other.**
-> *Part VIII · structural (FT/CV/AC across its rows) · treatise-side*
+**The Two-Axis Ledger** is the master table at the heart of Ultimentality's epistemology — the place where every load-bearing claim in the framework is written down beside *two* marks that are deliberately kept independent of each other. The first mark, the **epistemic** one, records *how the claim is held* and how it could be attacked. The second, the **alethic** one, records *how accurately the claim aspires to map reality*. The ledger's governing rule is that these two columns never predict each other: knowing a claim is highly contestable tells you nothing, by itself, about whether it is accurate.
 
-## Definition
-The Two-Axis Ledger is the table that records, for every load-bearing claim, two marks kept independent: the **epistemic mark** (Derived, at its contestability tier) and the **alethic mark** (its mapping-accuracy aspiration). The question is never "is it founded?" but "at what contestability tier is it held, and how accurately does it map?" These are the two independent axes.
+## What the two marks are
 
-## In depth
-The epistemic mark places a Derived claim on the [[contestability-gradient|contestability gradient]]: *FT* (frame-internal/tautological, contestable only by declining the frame), *CV* (carving/count/aptness, contestable by counter-instance), or *AC* (authority-canonical, contestable by contesting the authority). The alethic mark records the claim's mapping-accuracy aspiration. None of the claims is "forced" or "foundational"; every one is Derived.
+Every claim in Ultimentality has the same epistemic *status* — it is [[derived|Derived]]. None is "forced" or "foundational." What differs from claim to claim is its *tier* on the [[contestability-gradient|contestability gradient]], and that tier is the epistemic mark:
 
-The ledger's discipline is that **the two columns do not predict each other.** A claim in the AC tier (high-contestability) can be maximally accurate (the [[fear-guard|Fear-guard]], the [[predicate-binding|binding model]]). A claim in the FT tier (least-contestable) can have its accuracy still in genuine question (the [[constitutive-identification|Telos's constitutive identification]], tested philosophically at the frame's edge) — and least-contestable never means *merely optional*: within the frame the claim maps by construction, and declining the frame is a philosophical cost, not a free choice. A CV claim can be *defeated as a closure* and *kept as a mapping* in the same breath (every count). So "contestable" never reads as "probably wrong"; it reads as "held in a way that stays open to its own refutation." The deflation from the prior "Forced" tier removed only the foundation-and-possession pretension; not one accuracy-aspiration was lowered — the mirror is intact, only the claim to *own* the glass is gone.
+- **FT** — frame-internal / tautological: contestable only by declining the frame ([[frame-internal-tier|the FT tier]]);
+- **CV** — carving / count / aptness: contestable by counter-instance ([[carving-tier|the CV tier]]);
+- **AC** — authority-canonical: contestable by contesting the authority ([[authority-canonical-tier|the AC tier]]).
 
-One **two-marks exception**: phenomenological glosses (what an emotion or Force *feels* like) are Derived, FT, exposition only, no probative weight — the one place the rule is suspended, because the item makes no claim of its own; it *inherits* the formal claim's accuracy rather than lacking it.
+The second column is the [[alethic-axis|alethic mark]]: the claim's mapping-accuracy aspiration, drawn from the [[two-mark-system|two-mark system]] the ledger systematizes. So a single row reads, in effect, "held this way, attackable that way — and aspiring to map the world this well."
 
-## Epistemic & alethic marks
-The ledger is the structural apparatus that *assigns* the marks; its own rows span FT, CV, AC, Testimony, and Open. The two-axis discipline (every load-bearing claim carries both marks, kept independent) is itself the new gate of this edition — see the [[falsification-standard|two-axis gate]].
+## How it works — the columns never predict each other
 
-## Distinctions & cautions
-A claim's contestability tier may **never** be silently read off as a verdict on its accuracy, nor its accuracy read off as a license to harden its tier. There is no "verifier" tier to be proven or unproven, because there is no foundation to verify against. One claim is **Open** (not even frame-internally settled): whether experienced meaning is necessarily defined against the unexperienced ([[nihil|the nihil]]) at all.
+The ledger's whole discipline is that the two marks are *orthogonal*. A claim can sit at the most-contestable AC tier and still be maximally accurate — the [[fear-guard|Fear-guard]] and the [[predicate-binding|binding model]] are exactly that. A claim can sit at the least-contestable FT tier and still have its accuracy in genuine question — the [[constitutive-identification|Telos's constitutive identification]], tested philosophically at the frame's edge, is FT yet not settled as accurate; and "least-contestable" never collapses into "merely optional," because within the frame the claim maps by construction and declining the frame is a real philosophical cost. Most strikingly, a CV claim can be *defeated as a closure and kept as a mapping in the same breath* — which is what happens to every count-set in the framework. (Compare a weather map: that it is revisable, and "just a drawing," is one fact about it; that it gets you home dry is another, entirely separate fact. Revisable and accurate are different properties of the same map.) Because of this, "contestable" never reads anywhere in the ledger as "probably wrong"; it reads as "held in a way that stays open to its own refutation."
 
-## Related
-[[two-mark-system|The Two-Mark System]] — the E/A pairing this ledger systematizes
-[[contestability-gradient|The Contestability Gradient]] — the FT→CV→AC epistemic axis
-[[alethic-axis|The Alethic Axis]] — the mapping-accuracy axis, orthogonal to contestability
-[[keystone|The Keystone]] — the standing the ledger sits beneath (strong mirror, possession renounced)
-[[falsification-standard|The Falsification Standard]] — the threefold gate, including the two-axis gate
-[[kill-table|The Kill-Table]] — what would refute each row on each axis
-[[derived|Derived (the single epistemic status)]] — every row is Derived, nothing forced
+One **exception** is written into the table: phenomenological glosses — what an emotion or a Force *feels* like — are entered as Derived, FT, exposition only, with no probative weight. This is the single place the two-marks rule is formally suspended, because such an item makes no claim of its own; it *inherits* the formal claim's accuracy rather than lacking any of its own.
 
-## Source
-Part VIII of the treatise ("The ledger — every load-bearing claim, two marks, kept independent"). Provenance: **treatise-side** scaffolding that organizes canonical and seed claims by their two marks; the second alethic axis is new to this edition.
+## Role in the wider framework
+
+The ledger is the apparatus that *assigns* the marks the rest of the framework relies on, so its rows span the full range — FT, CV, AC, plus [[provenance-as-testimony|Testimony]] for the dated eras and one row left frankly **Open** (whether experienced meaning must be defined against [[nihil|the nihil]] at all). It sits directly beneath the [[keystone|keystone]]: the deflation from a prior "Forced" tier to uniform Derived is what made a *second*, alethic axis necessary, and the ledger is where that second axis is recorded. Its existence is also a load-bearing claim in the [[falsification-standard|falsification standard]] — the new "two-axis gate" simply *is* the demand that every claim carry both marks, kept independent.
+
+## Common misreadings
+
+- Reading a high epistemic exposure as a low accuracy score. The columns are orthogonal; one predicts nothing about the other.
+- Looking for a "verifier" or "Forced" tier. There is none; every claim is Derived, and there is no foundation to verify against.
+- Treating the phenomenological-gloss exception as a loophole for real claims. It applies only to items that assert nothing on their own.
+
+> **Formal status.** *Part VIII (the ledger).* The ledger is the *structural apparatus* that assigns marks; it is not itself a marked world-claim. Its rows carry every load-bearing claim's **E** (Derived, at FT / CV / AC, plus Testimony and one Open) and **A** (mapping-accuracy aspiration). Provenance: **treatise-side** scaffolding organizing canonical and seed claims; the second, alethic axis is new to this edition.
+
+## See also
+- [[two-mark-system|The Two-Mark System]] — the E/A pairing this ledger systematizes.
+- [[contestability-gradient|The Contestability Gradient]] — the FT→CV→AC epistemic axis.
+- [[alethic-axis|The Alethic Axis]] — the mapping-accuracy axis, orthogonal to contestability.
+- [[derived|Derived (the single epistemic status)]] — every row is Derived, nothing forced.
+- [[keystone|The Keystone]] — the standing the ledger sits beneath.
+- [[falsification-standard|The Falsification Standard]] — the threefold gate, including the two-axis gate.
+- [[kill-table|The Kill-Table]] — what would refute each row on each axis.

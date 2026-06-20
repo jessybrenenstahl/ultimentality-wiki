@@ -2,35 +2,48 @@
 
 # Predicate Binding B(p)=(p,eₚ)
 
-> **An emotion is not a primitive but a predicate binding: a primitive actuator paired with a regulated error signal driven toward zero — not the preservation of an invariant.**
-> *Part II · AC · canonical*
+A **predicate binding** is what an emotion *is* inside this framework: not a basic ingredient of the mind but a small piece of machinery — a directional move paired with a target it is constantly trying to hit. Written out, a binding is **B(p) = (p, eₚ)**, which says "the emotion is the primitive *p* together with the error signal *eₚ* that it drives toward zero." In plain terms: an emotion is a *controller*. It takes one elementary motion and steers it to close a specific gap. Love closes the gap of separation; fear closes the gap of exposure. The name of the emotion is the name of the gap-closer, not the name of a feeling.
 
-## Definition
-An emotion, in this framework, is *not* a directional primitive. It is a **predicate binding** at the system level: a primitive operation paired with a **regulated error signal**. The formal object is written **B(p) = (p, eₚ)**, where **p is the primitive actuator** and **eₚ is a regulated error signal driven toward zero**. The seed already states it — *emotion here means predicate binding at the system level* — and the canon supplies the formal object.
+## Why an emotion is not a primitive
 
-## In depth
-The governing correction is exact: *binding is not preservation of an invariant; binding is regulation toward a setpoint. The primitive is the actuator; the predicate names the controller; the error signal names the discrepancy the controller reduces.* So each binding has three roles in fixed relation — actuator (the directional primitive), controller (the named predicate, e.g. Love or Fear), and the error signal the controller drives down.
+The framework keeps its furniture in a strict order: [[directional-primitives|directional primitives]] come first, then predicate bindings are built *on top of* them, and only after that do [[conceptual-derivatives|conceptual derivatives]], composites, and the rest follow. The bindings are emphatically downstream. The four base operators — [[toward|toward]], [[away|away]], [[loop-back|loop-back]], [[propagation|propagation]] — are bare, unexperienced structure; an emotion is a *use* of one of them, governed by a goal. To say "fear is a primitive" is therefore a category mistake, like calling a thermostat one of the basic laws of physics. That specific mistake, applied to the four cornerstone emotions, is [[cardinal-error|the cardinal error]] of the whole framework, and it caps any account that commits it.
 
-Binding is **emphatically not invariant preservation**. Defining a binding as a conserved invariant rather than a regulated error is a **capped error**. The controller model is meant to capture what an emotion structurally *is* across conscious and non-conscious carriers alike — the accuracy discipline is to extract the regulated error, not the surface delivery channel.
+The source line the framework quotes is short and load-bearing: *emotion here means predicate binding at the system level.* "At the system level" matters — it means the definition is meant to hold for any system that regulates, conscious or not, so the felt texture of an emotion is treated as [[human-gloss|gloss]] rather than as the thing itself.
 
-The four cornerstone bindings instantiate this scheme: [[love|Love]], [[fear|Fear]], [[apology|Apology]], and [[gratitude|Gratitude]], each a primitive under its own regulated error.
+## The three roles inside a binding
 
-## Epistemic & alethic marks
-- **E:** Derived, AC — the binding model and the rejection of invariant-preservation are fixed and capped by the controlling authority; contestable by contesting the authority.
-- **A:** The controller model aspires to map what an emotion structurally is across conscious and non-conscious carriers alike; the invariant-preservation reading maps the structure wrongly, not merely disallowed.
+Read the notation as a tiny control loop with three named parts:
 
-## Distinctions & cautions
-A binding is NOT a primitive, NOT an invariant to be conserved, and NOT identical to the surface expression of an emotion. Reading it as conserved-invariant is a capped error. Inverting the binding/primitive relation entirely is [[cardinal-error|the cardinal error]].
+- **p — the actuator.** The directional primitive that actually does something: admits, excludes, routes inward, or emits.
+- **the predicate — the controller.** The named emotion (Love, Fear, Apology, Gratitude). It is the *policy* that decides how hard to push the actuator.
+- **eₚ — the [[regulated-error-signal|regulated error signal]].** The discrepancy the controller is trying to shrink. This is the heart of the binding: change *eₚ* and you have changed which emotion you are describing.
 
-## Related
-- [[regulated-error-signal|The Regulated Error Signal]] — eₚ, the discrepancy the controller drives to zero
-- [[directional-primitives|The Directional Primitives]] — the actuators p that get bound
+The governing correction states the relation exactly: *the primitive is the actuator; the predicate names the controller; the error signal names the discrepancy the controller reduces.* By analogy, and only as analogy: a cruise-control system is the actuator (the throttle), a controller (the policy "hold 100 km/h"), and an error signal (current speed minus target). Nobody calls cruise control a fundamental force; the framework asks the same restraint for emotions.
+
+## Regulation, not preservation
+
+The single most emphasized point is what a binding is *not*. **Binding is not the preservation of an invariant; it is regulation toward a setpoint.** An invariant is something you hold fixed and conserve; a setpoint is something you chase by continuously correcting error. Defining a binding as a conserved invariant rather than a [[regulated-error-signal|regulated error]] is a *capped* error in its own right — less catastrophic than the [[cardinal-error|cardinal inversion]], but still scored against an exposition. The reason is that invariant-talk smuggles back the idea that the emotion is a static possession, when the framework insists it is an ongoing act of correction.
+
+This also explains the layer's central accuracy discipline: **extract the regulated error, not the surface delivery channel.** A spoken apology, a hug, a thank-you note — these are downstream expressions. The binding lives in the gap being closed, not in the words or gestures that close it.
+
+## The four cornerstone bindings
+
+The scheme is instantiated four times, once per primitive, each verbatim across the [[canon|canon]]: [[love|Love = (toward, relational gap)]], [[fear|Fear = (away, boundary violation)]], [[apology|Apology = (loop-back, self-model error)]], and [[gratitude|Gratitude = (propagation, undischarged received value)]]. Each pairs one actuator with its own error signal, and each is a controller, not a feeling. Together they are the raw material from which composites like [[submission|Submission]] and [[reconciliation|Reconciliation]] are coupled.
+
+## Common misreadings
+
+Three readings are explicitly out of bounds. First, treating a binding as a *primitive* — the cardinal inversion. Second, treating it as a *conserved invariant* — the capped invariant-preservation error. Third, identifying the binding with its *surface expression* — mistaking the spoken apology for the loop-back it expresses. All three flatten the (p, eₚ) structure that makes a binding a binding.
+
+> **Formal status.** Epistemic: Derived, authority-canonical — the binding model and the rejection of invariant-preservation are fixed and *capped* by the controlling authority; contestable only by contesting that authority. Alethic: the controller model aspires to map what an emotion structurally *is* across conscious and non-conscious carriers alike, so the invariant-preservation reading is not merely disallowed but maps the structure *wrongly*. Provenance: **canonical**; the source phrase *emotion here means predicate binding at the system level* is from the seed.
+
+## See also
+
+- [[regulated-error-signal|The Regulated Error Signal]] — *eₚ*, the discrepancy a controller drives to zero
+- [[directional-primitives|The Directional Primitives]] — the bare actuators a binding harnesses
 - [[love|Love = (toward, relational gap)]] — a cornerstone binding
 - [[fear|Fear = (away, boundary violation)]] — a cornerstone binding
 - [[apology|Apology = (loop-back, self-model error)]] — a cornerstone binding
 - [[gratitude|Gratitude = (propagation, undischarged received value)]] — a cornerstone binding
-- [[conceptual-derivatives|Conceptual Derivatives]] — human-readable nouns abstracted from bound primitives
-- [[cardinal-error|The Cardinal Error]] — treating these bindings as primitives
-
-## Source
-Part II of the treatise (The Directional Core). Provenance: **canonical** — the binding model and the rejection of invariant-preservation are authority-canonical and capped; the seed supplies the source phrase *emotion here means predicate binding at the system level*.
+- [[conceptual-derivatives|Conceptual Derivatives]] — nouns abstracted from bound primitives
+- [[cardinal-error|The Cardinal Error]] — the inversion this structure forbids
+- [[human-gloss|The Human Gloss]] — the felt texture that carries no probative weight

@@ -2,32 +2,27 @@
 
 # Away
 
-> **Excludes or decreases coupling with a signification.**
-> *Part II · AC · canonical*
+**Away** is one of the framework's four [[directional-primitives|directional primitives]]: the bare structural move by which a transformation step *excludes or decreases coupling with a signification* — that is, refuses, withdraws from, or loosens its attachment to something. The word evokes recoil or fear, but *away* is not a feeling. It is an unexperienced operator, the direction a step points when it sets itself to "disconnect" rather than "connect."
 
-## Definition
-**Away** is one of the four directional primitives. Its operational semantics, authority-canonical: it *excludes or decreases coupling with a signification.* It sits on the [[selection-axis|Selection]] axis — the domain-side, what is admitted or excluded.
+## What it does
 
-## In depth
-Away is a bare directional operator, not a feeling. With its pair [[toward|Toward]], it forms the **Selection** axis: the domain-side of a recursive transformation step, governing what a step admits or excludes. Away is the excluding move — it decreases coupling with a signification rather than increasing it.
+Every recursive step has a *domain side* where it decides what it lets in and what it keeps out. Away is the excluding move on that side, the exact counterpart of [[toward|Toward]], which admits or increases coupling. Together toward and away constitute the [[selection-axis|Selection axis]] — the domain-side choice of any step. Selection is one of the two carving axes of the primitive set; the other is the codomain-side [[routing-axis|Routing axis]] (loop-back / propagation).
 
-It is not an emotion, mood, virtue, image, or personality style. It is unexperienced structure; the felt quality of the same name is gloss with no probative weight. Away is load-bearing in the next rung: it is the actuator in [[fear|Fear = (away, boundary violation)]], the away-movement that reduces the discrepancy between current exposure and acceptable protection against threat. (Note: the framework withdrew an invented "integrity" axis from prior editions; with that withdrawal, Fear's regulated error reverts to **boundary violation**.) The conceptual derivative *awayness* is a human-readable noun abstracted from the bound primitive — not itself primitive.
+The qualifier *coupling with a signification* is essential. Away is not "fleeing" and not "disliking." It is the structural act of loosening or refusing a binding to a meaning-bearing element. Loosely — and only as illustration — it resembles a valve closing or a gate switched to *block*: the operator names the closing, not any felt aversion behind it.
 
-## Epistemic & alethic marks
-- **E:** Derived, AC — fixed by the controlling authority; contestable by contesting the authority.
-- **A:** Aspires to map an elementary directional move of any transformation step (exclude / decrease coupling); the operator is bare and unexperienced, and that is the accurate claim.
+## Its role in the wider framework
 
-## Distinctions & cautions
-Away is NOT Fear. Fear is a [[predicate-binding|predicate binding]] over away; the predicate does not define the primitive. Reading away as the emotion, or as a metaphor, inverts the layers — the [[cardinal-error|cardinal error]]. Away (Selection) does not collapse into the [[routing-axis|Routing]] primitives: the four combinations are behaviorally distinct.
+Away is load-bearing as an actuator in the next rung up, [[predicate-binding|predicate binding]], where an emotion is a primitive paired with a [[regulated-error-signal|regulated error signal]] driven toward zero. Away is the actuator inside **[[fear|Fear]] = (away, boundary violation)**: the away-movement that reduces boundary violation — the discrepancy between current exposure and acceptable protection against threat. Fear is therefore *built from* away; away is not built from Fear. The human-readable noun *awayness* is a [[conceptual-derivatives|conceptual derivative]] abstracted from the bound primitive, not itself primitive.
 
-## Related
-[[toward|Toward]] — its opposite on the Selection axis.
-[[selection-axis|The Selection Axis]] — the axis it belongs to.
-[[directional-primitives|The Directional Primitives]] — the parent set of four operators.
-[[fear|Fear]] — the predicate binding whose actuator is away.
-[[routing-axis|The Routing Axis]] — the independent codomain-side axis.
-[[predicate-binding|Predicate Binding]] — how a primitive becomes an emotion.
-[[conceptual-derivatives|Conceptual Derivatives]] — awayness and the others.
+A historical correction lives here. Prior editions (v10, v11) invented "emotion-generator" axes — {toward, away} × {relation, integrity} — and demoted *integrity* in a way that rerouted Fear's regulated error. The framework withdraws those invented axes; there are no such axes in the corpus. With the withdrawal, **Fear's regulated error reverts to boundary violation**, and the only genuine domain-side axis is Selection.
 
-## Source
-Part II of the treatise. Provenance: authority-canonical (the operational semantics are fixed by the controlling authority).
+## Common misreadings
+
+The signature mistake is to read **away as Fear** — to treat the emotion as the primitive. The predicate does not define the primitive, and the primitive is not reducible to the predicate; inverting them is the [[cardinal-error|cardinal error]], which caps any exposition that commits it. A second misreading takes away as a metaphor or a fearful temperament; it is bare structure, and its felt namesake is gloss with no probative weight. A third tries to fold away (Selection) into the Routing primitives — but the four primitive combinations are behaviorally distinct, so the axes stay independent.
+
+## Formal status
+
+> **Formal status.** Epistemic: [[derived|Derived]], [[authority-canonical-tier|authority-canonical]] — the operational semantics (exclude / decrease coupling) are fixed by the controlling authority; contestable by contesting that authority. Alethic: aspires to map an elementary directional move of any transformation step; that the operator is bare and unexperienced is itself the accurate claim. Provenance: canonical (the reversion of Fear's error to *boundary violation* follows from the treatise-side withdrawal of the invented integrity axis).
+
+## See also
+[[toward|Toward]] · [[selection-axis|The Selection Axis]] · [[directional-primitives|The Directional Primitives]] · [[fear|Fear]] · [[predicate-binding|Predicate Binding]] · [[routing-axis|The Routing Axis]] · [[conceptual-derivatives|Conceptual Derivatives]] · [[cardinal-error|The Cardinal Error]] · [[regulated-error-signal|The Regulated Error Signal]]

@@ -2,35 +2,28 @@
 
 # Carving / Count / Aptness Tier (CV)
 
-> **The middle tier of the contestability gradient: carvings, counts, and aptness claims — contestable by *counter-instance*, which defeats them on their own terms.**
-> *Part 0b · CV · canonical*
+The **Carving / Count / Aptness Tier**, abbreviated **CV**, is the middle rung on Ultimentality's scale of how a claim can be argued against. A claim sits at CV when it asserts that a particular *carving* of reality is the apt one, or fixes an exact *count* — "there are exactly four primitives," "exactly two Forces," "exactly three corruptions," "the five roles exhaust the cycle." Unlike a frame-internal stipulation, such a claim sticks its neck out: it can be **defeated by a counter-instance**. Exhibit a fifth primitive, a third Force, a fourth corruption, a sixth role, or simply a better way of cutting the joint, and the claim falls — not by your declining to play, but by losing on its own terms.
 
-## Definition
-CV is the middle tier on the contestability gradient. A claim here asserts that a particular carving is the apt one, or fixes a count: "exactly four primitives," "exactly two Forces," "exactly three corruptions," "the five roles exhaust the cycle." Such a claim is contestable by **counter-instance** — exhibit a fifth primitive, a third Force, a fourth corruption, a sixth role, a better carving. A counter-instance does not merely *decline* the claim; it *defeats* it on its own terms.
+## Where CV sits, and why counter-instances bite
 
-## In depth
-CV sits above FT (which yields only to frame-declension) and below AC (which yields to contesting an authority). What distinguishes CV is that it is defeasible from *inside* the frame by a single counterexample.
+CV is bracketed by the other two tiers of the [[contestability-gradient|Contestability Gradient]]. Below it is the [[frame-internal-tier|Frame-Internal / Tautological Tier]], which yields only to someone refusing the frame outright. Above it is the [[authority-canonical-tier|Authority-Canonical Tier]], which yields to contesting an authority. What is distinctive about CV is that it is defeasible from *inside* the frame by a single well-aimed example. An aptness claim says "this is the right cut"; a counter-instance answers "here is something the cut leaves out, or a cleaner cut," and that is a defeat the claim cannot wave away. (Compare a naturalist's claim that a clade has exactly five living species: one overlooked specimen settles it — no appeal to definitions, no appeal to authority, just the world producing a sixth.)
 
-This edition's central move is to demote **every** count-closure uniformly to CV — four primitives, two Forces, three corruptions, five roles — while keeping each carving's accuracy-aspiration fully intact. **No count-set is exempt, and the three-corruption count is held at the same tier as the others.** The demotion rests on the benchmark's own **open proof-burden** (it does not assert the closures as proven); the 2026 adversarial run supplied the counter-instances, but as a red-team-run-side finding adopted *under* the benchmark, never as a higher court over it.
+## The edition's central demotion
 
-The CV tier is where the two axes most visibly come apart: a count can be **defeated as a closure** and **kept as a mapping** in the same breath. The two-Force closure fell to a cross-axis coupling, yet the two same-axis couplings still map the vertical and restorative relations accurately. That simultaneity is the discipline CV exists to express.
+The signature move of the current edition is to push **every** count-closure down to CV uniformly. Four primitives, two Forces, three corruptions, five roles — all of them. None is exempt, and the framework is emphatic that the three-corruption count is held at *the same* tier as the others, never quietly promoted toward foundation. The grounds for the demotion are twofold and carefully ordered: the controlling authority's own [[open-proof-burden|Open Proof-Burden]] (the benchmark does not assert the closures as proven) does the licensing, and [[the-2026-adversarial-run|The 2026 Adversarial Run]] supplies the actual counter-instances — but as a red-team-run-side finding adopted *under* the benchmark, never as a higher court over it. The order matters: the run does not outrank canon; it walks through a door the benchmark left open.
 
-## Epistemic & alethic marks
-Exposition — names a tier of the epistemic axis. Claims placed here carry **E: Derived, CV — contestable by counter-instance**. Their alethic mark is independent: the carving may map its target accurately even where its exhaustiveness is defeated.
+## "Defeated as closure, kept as mapping"
 
-## Distinctions & cautions
-- CV is **not** "forced" and **not** founded; a defeated count survives as an accurate mapping.
-- Treatise-side coinages and carvings (the word "nihil," control-theoretic labels, the epigraph mapping, palindromic order) are also CV — apt construals among possible others, offered to be confirmed, not possessions.
-- A CV defeat refutes the *closure*, never the *mapping*; collapsing the two is the misreading the alethic axis forbids.
+CV is the tier where the two axes of the [[two-axis-ledger|Two-Axis Ledger]] most visibly come apart. A count can be **defeated as a closure** and **kept as a mapping** in the same breath. When the two-Force closure fell to a cross-axis coupling such as {[[love|Love]], [[gratitude|Gratitude]]}, the *exhaustiveness* claim died — but the two same-axis [[force|Forces]] still map the vertical and restorative relations accurately. The closure was contestable-and-defeated on the epistemic axis; the mapping was accurate-and-kept on the [[alethic-axis|alethic axis]]. That simultaneity is precisely the discipline CV exists to express, and collapsing the two — reading "the closure failed" as "the carving is wrong" — is the exact misreading the [[two-mark-system|two-mark system]] is built to prevent.
 
-## Related
-[[contestability-gradient|The Contestability Gradient]] — the gradient CV occupies in the middle
-[[frame-internal-tier|Frame-Internal / Tautological Tier (FT)]] — the less-exposed tier below CV
-[[authority-canonical-tier|Authority-Canonical Tier (AC)]] — the most-exposed tier above CV
-[[the-2026-adversarial-run|The 2026 Adversarial Run]] — supplied the counter-instances demoting the closures to CV
-[[open-proof-burden|The Open Proof-Burden]] — the benchmark basis for the demotion
-[[two-axis-ledger|The Two-Axis Ledger]] — where defeated-as-closure / kept-as-mapping is recorded
-[[alethic-axis|The Alethic Axis]] — the accuracy axis a CV carving can still satisfy in full
+## Carvings beyond the counts
 
-## Source
-Part 0b of the treatise (the contestability gradient; the Two-Axis Ledger tier key, Part VIII). Provenance: **canonical** — benchmark-fixed.
+CV is not only about counts. The framework files its own treatise-side coinages and constructions here too: the word "[[nihil|nihil]]," the control-theoretic labels, the [[epigraph|epigraph mapping]], the [[palindrome|palindromic order]] of the roles. These are offered as *apt construals among possible others* — illuminating cuts presented to be confirmed, not possessions. Marking them CV keeps them honest: each aspires to map its target well (its alethic virtue) while admitting that a better construal could replace it (its CV exposure). (Loosely, like a good metaphor: it can be excellent and still not the only one, and a sharper one may someday retire it.)
+
+## Formal status
+
+> **Formal status.** *Expository tier-term: CV names a position on the epistemic axis rather than asserting a load-bearing claim of its own.* Claims placed here carry the epistemic mark **E: Derived, CV — contestable by counter-instance**; their alethic mapping-accuracy is marked independently and may remain high even where the closure is defeated. Provenance: **canonical** — benchmark-fixed (Preamble contestability gradient; Two-Axis Ledger tier key, Part VIII).
+
+## See also
+
+[[contestability-gradient|The Contestability Gradient]] · [[frame-internal-tier|Frame-Internal / Tautological Tier (FT)]] · [[authority-canonical-tier|Authority-Canonical Tier (AC)]] · [[the-2026-adversarial-run|The 2026 Adversarial Run]] · [[open-proof-burden|The Open Proof-Burden]] · [[two-axis-ledger|The Two-Axis Ledger]] · [[alethic-axis|The Alethic Axis]] · [[two-mark-system|The Two-Mark System]] · [[kill-table|The Kill-Table]]

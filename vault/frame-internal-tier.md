@@ -2,36 +2,33 @@
 
 # Frame-Internal / Tautological Tier (FT)
 
-> **The least-exposed tier of the contestability gradient: frame-internal tautologies, definitions-as-stipulations, and their theorems — contestable only by *declining the frame*, never by counter-instance.**
-> *Part 0b · FT · canonical*
+The **Frame-Internal / Tautological Tier**, abbreviated **FT**, is the least-exposed rung on Ultimentality's scale of how claims can be argued against. A claim sits at FT when it is true *by the way the words were defined* — a stipulation, a tautology, or anything that follows from one by plain inference. You cannot trip such a claim up with a counter-example, because within its own vocabulary it cannot fail; the only way to dispute it is to refuse the vocabulary altogether. FT is the tier of claims you can only beat by *walking out of the room*, not by knocking anything over inside it.
 
-## Definition
-FT is the lowest-exposure tier on the contestability gradient. A claim here is a frame-internal tautology or a definition-as-stipulation — together with whatever follows from it by inference. Within the frame it is true by construction, so no counter-instance can catch it out; the only way to contest it is to refuse the frame in the first place. It is still **Derived**, and still contestable — at the frame's edge.
+## What "contestable only by declining the frame" means
 
-## In depth
-A stipulation such as "let *binding* mean a primitive paired with a regulated error" and its theorems sit at FT. You cannot defeat them on their own terms, because they map by construction; you can only walk out of the frame. The treatise stresses two cautions against misreading this least-exposed status:
+Suppose the framework stipulates: "let *binding* mean a [[predicate-binding|primitive paired with a regulated error]]." Once that sentence is accepted, every theorem that follows from it inherits its certainty — not because the world has been consulted, but because the conclusion was already folded into the premise. Hunting for a counter-instance is futile: there is no possible observation that makes a definition "wrong," only observations that make it *useless* or *ill-chosen*. So the one available move is to decline the frame — to say "I will not let *binding* mean that" and step outside the construction entirely.
 
-- **Least-exposed is not "forced."** The prior editions filed asserted-as-apt definitions under a "Forced" tier — the textual Nephilim operating quietly. FT replaces that: the correct mark is "contestable only by declining the frame," not "foundational."
-- **Least-exposed is not "merely optional."** Declining the frame is a *philosophical cost*, not a free choice, and within the frame the claim maps by construction.
+This is the engine of the whole [[contestability-gradient|Contestability Gradient]]. FT anchors its least-exposed end; the [[carving-tier|Carving / Count / Aptness Tier]] sits in the middle (defeated by counter-instance); and the [[authority-canonical-tier|Authority-Canonical Tier]] sits at the exposed end (defeated by contesting an authority). The tier you are on tells you *which kind of attack can land*, nothing more. (Compare Wittgenstein's [[continuable-structure|ladder]]: a stipulation is a rung you can use to climb, or refuse to set foot on — but you cannot argue that the rung is "false.")
 
-Examples the ledger places at FT: the axiom itself (contestable by declining the axiom); the four operational consequences (corollaries by inference); the integrity rule (contrapositive of the capability rule); the captured-propagation sub-result of the telos-exemption (a conditional valid within its antecedent); and the Telos's constitutive identification — the one derivation you cannot deny *from inside the frame* while using the term, though you may decline the frame.
+## Two cautions the framework presses hard
 
-## Epistemic & alethic marks
-Exposition — names a tier of the epistemic axis rather than asserting a load-bearing claim of its own. Claims *placed* at FT carry the mark **E: Derived, FT**; the tier is the structural fact that their only contest is frame-declension.
+The framework defines FT as much by what it is *not* as by what it is:
 
-## Distinctions & cautions
-- FT is **not** a founded or forced tier — there is no founded tier; FT is still Derived.
-- FT accuracy is independent: a least-contestable FT claim may still have its alethic accuracy in genuine question (e.g. the Telos's constitutive identification, tested philosophically at the frame's edge).
-- Do not read "contestable only by declining the frame" as "merely optional."
+- **Least-exposed is not "forced."** Earlier editions of the corpus kept a "Forced" tier and filed asserted-as-apt definitions there. The framework now treats that as the [[textual-nephilim|textual Nephilim]] operating quietly — a derivation that has been allowed to forget it is a derivation, a piece of the map declaring itself the ground. The correct mark for a stipulation is "contestable only by declining the frame," never "foundational." There is no founded tier above FT; FT is still [[derived|Derived]] like everything else.
+- **Least-exposed is not "merely optional."** Declining the frame is a *philosophical cost*, not a free shrug. Within the frame the claim maps by construction, and walking out is a real expense — you forfeit everything the frame let you say. To read FT as "take it or leave it, no difference" is the misreading the framework most wants to forbid here.
 
-## Related
-[[contestability-gradient|The Contestability Gradient]] — the gradient FT anchors at the least-exposed end
-[[carving-tier|Carving / Count / Aptness Tier (CV)]] — the middle tier, defeated by counter-instance
-[[authority-canonical-tier|Authority-Canonical Tier (AC)]] — the most-exposed tier, contested by contesting authority
-[[two-mark-system|The Two-Mark System]] — FT is one value of the epistemic (E) mark
-[[alethic-axis|The Alethic Axis]] — orthogonal accuracy axis; FT claims may be highly accurate or in question
-[[derived|Derived (the single epistemic status)]] — FT claims are still Derived
-[[constitutive-identification|The Constitutive Identification (conatus)]] — the load-bearing FT claim whose accuracy stays in question
+## Which claims live at FT
 
-## Source
-Part 0b of the treatise (the contestability gradient of the Preamble; the Two-Axis Ledger tier key). Provenance: **canonical** — benchmark-fixed; the tier is part of the controlling apparatus.
+The [[two-axis-ledger|Two-Axis Ledger]] places several load-bearing claims at FT. [[axiom|The axiom]] itself sits here — itself derived, accessed symbolically, contestable only by declining the axiom. So do its [[four-operational-consequences|four operational consequences]] (corollaries by inference), the [[integrity-rule|Integrity Rule]] (the contrapositive of the [[capability-rule|Capability Rule]]), and the [[captured-propagation|captured-propagation]] sub-result of the telos-exemption (a conditional valid only within its antecedent). The most philosophically loaded FT resident is the Telos's [[constitutive-identification|constitutive identification]] — the one derivation you cannot deny *from inside the frame* while still using the term, though you remain free to decline the frame.
+
+## Why FT accuracy is a separate question
+
+Being least-contestable says nothing about being most accurate. The [[alethic-axis|Alethic Axis]] runs orthogonal to the [[two-mark-system|epistemic axis]]: a claim can be unbeatable-within-its-frame and still have its *mapping* of reality in genuine question. The constitutive identification is exactly such a case — frame-internally undeniable, yet tested philosophically at the frame's edge, where the real question is whether the frame carves reality well. (By analogy, the primes are tautological within arithmetic *and* track a real regularity of the world; tautology and accuracy can both be true at once.) "Contestable only by declining the frame" therefore never reads as "probably right about the world" any more than it reads as "merely optional."
+
+## Formal status
+
+> **Formal status.** *Expository tier-term: FT names a position on the epistemic axis rather than asserting a load-bearing claim of its own.* Claims *placed* at FT carry the epistemic mark **E: Derived, FT — contestable only by declining the frame**; their alethic accuracy is marked independently and may still be in question. Provenance: **canonical** — the tier is benchmark-fixed, part of the controlling apparatus (Preamble contestability gradient; Two-Axis Ledger tier key, Part VIII).
+
+## See also
+
+[[contestability-gradient|The Contestability Gradient]] · [[carving-tier|Carving / Count / Aptness Tier (CV)]] · [[authority-canonical-tier|Authority-Canonical Tier (AC)]] · [[two-mark-system|The Two-Mark System]] · [[alethic-axis|The Alethic Axis]] · [[derived|Derived (the single epistemic status)]] · [[constitutive-identification|The Constitutive Identification (conatus)]] · [[textual-nephilim|The Textual Nephilim]] · [[two-axis-ledger|The Two-Axis Ledger]]
