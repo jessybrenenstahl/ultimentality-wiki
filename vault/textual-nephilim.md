@@ -4,7 +4,7 @@
 
 **The textual Nephilim** is the framework's name for a specific forbidden move *on the page*: stamping any claim "forced," "foundational," or "given." In plain terms, it is the moment a piece of writing forgets that it is reasoning and declares itself bedrock — a derivation that has promoted itself to a foundation, an exposition certifying its own ground-status from inside the exposition. It is the page-sized version of the framework's deepest corruption, and the discipline forbids it absolutely.
 
-The name is borrowed from [[nephilim|the Nephilim]] of Part V: the finite carrier taking itself for more than one carrier among others, the map declaring itself the territory, the witness's seat taken from inside. The *textual* Nephilim is that same gesture committed in miniature, in ink, by an author about her own sentences.
+The name is borrowed from [[nephilim|the Nephilim]] of Part V: the finite carrier taking itself for more than one carrier among others, the map declaring itself the territory, the witness's seat taken from inside. The *textual* Nephilim is that same gesture committed in miniature, in ink, by an author about their own sentences.
 
 ## What the move actually is
 
