@@ -55,6 +55,12 @@ nav.toc a.active{background:var(--accent);color:#fff}
 .backlinks{margin-top:48px;padding-top:16px;border-top:1px solid var(--border)}
 .backlinks h2{font-size:14px;border:none;color:var(--muted);text-transform:uppercase;letter-spacing:.06em}
 .backlinks ul{padding-left:18px;margin:.4em 0;color:var(--muted)}
+.downloads{margin-top:40px;padding-top:16px;border-top:1px solid var(--border);
+  display:flex;flex-wrap:wrap;align-items:center;gap:10px;font-size:13px}
+.downloads .dl-h{color:var(--muted);text-transform:uppercase;letter-spacing:.06em;font-weight:700;font-size:11px}
+.downloads a{display:inline-block;padding:6px 11px;border:1px solid var(--border);border-radius:8px;
+  background:var(--panel);color:var(--link)}
+.downloads a:hover{background:var(--panel2);text-decoration:none}
 .topbar{display:none}
 .menu-toggle{display:none}
 @media (max-width:880px){
