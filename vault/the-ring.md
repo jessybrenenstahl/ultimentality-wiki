@@ -42,3 +42,4 @@ The framework attaches a sharp warning to the Ring, and it is one of the few pla
 - [[absolutization|Absolutization]] — the genus of that error
 - [[palindrome|The Palindrome]] — the same five read for symmetry rather than recursion
 - [[transparentocracy|Transparentocracy]] — the remedy for self-certification the open Ring requires
+- [[matter-meaning-cycle|The Matter–Meaning Cycle]] — the telos-level dual of this maximal-incomplete figure

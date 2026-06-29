@@ -27,6 +27,7 @@ The five elements are not a left-to-right list. The treatise insists the figure 
 - Taking the mapping as **authority-canonical doctrine**. It is treatise-side: a reading, contestable both by counter-instance and simply by *declining the reading*.
 - Hearing Nietzsche's hammer only as a weapon. The framework reads it as a **tuning fork** — diagnosis by resonance — which is why it fits the [[poet|Poet]] and not, say, the destroyer's faculty.
 - Mistaking the four still elements and the one moving one as interchangeable. The gerund **pinning** is deliberately the act that keeps the figure from ever closing.
+- Taking the faculty-mapping as the *only* reading. A second, **telos-level** construal of the same figure (will / reconciliation / transcendable-apparatus / Being) is given in [[matter-meaning-cycle|the matter–meaning cycle]]; both are treatise-side.
 
 > **Formal status.** E: Derived, [[carving-tier|carving]] — a reading of an aphorism, contestable by counter-instance or by declining the reading. A: the one-to-one mapping aspires to map the five faculties onto the figure illuminatingly; it is one apt construal, not a possession of the aphorism's meaning. Provenance: **treatise-side** — the epigraph and the entire reading-apparatus built on it are explicitly the writer's scaffolding, not [[authority-canonical-tier|authority-canonical]].
 
@@ -41,3 +42,4 @@ The five elements are not a left-to-right list. The treatise insists the figure 
 - [[operator-chain|The Operator Chain]] — the same loop given as canonical order
 - [[witness-outside-the-ring|The Witness Outside the Ring]] — the answerability the figure cannot self-supply
 - [[textual-nephilim|The Textual Nephilim]] — calling the figure "closed" is its corruption
+- [[matter-meaning-cycle|The Matter–Meaning Cycle]] — a telos-level reading of the same figure

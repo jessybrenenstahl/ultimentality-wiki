@@ -25,7 +25,7 @@ The page declares its own seams rather than hiding them. **(1)** The *word* "nih
 
 ## Inexhaustible — why it is a reflection, not a closure
 
-The nihil is **inexhaustible**: no finite act of meaning-making converts more than a vanishing fraction of it into experienced meaning. This is why "completion" here is a *reflection* and never a *closure* — the set touches its boundary, it does not consume it. A framework that claimed to close against the nihil would be overreaching; the honest claim is that meaning is *oriented* against an outside it can never finish.
+The nihil is **inexhaustible**: no finite act of meaning-making converts more than a vanishing fraction of it into experienced meaning. This is why "completion" here is a *reflection* and never a *closure* — the set touches its boundary, it does not consume it. A framework that claimed to close against the nihil would be overreaching; the honest claim is that meaning is *oriented* against an outside it can never finish. The [[telos|telos]]'s two formulations both reflect nihil from different sides: [[matter-meaning-cycle|the matter–meaning cycle]] as the persistence opposing instantiates (the interior), and the [[epigraph|epigraph]]-aphorism as the limit every map presses against (the boundary).
 
 ## Common misreadings
 
@@ -40,3 +40,4 @@ The nihil is **not** oblivion or death (that conflation is exactly the prior edi
 - [[vls|VLS]] — obliges the corpus to want the contest over the open edge.
 - [[open-proof-burden|The Open Proof-Burden]] — kindred Open-tier honesty about what is not proven.
 - [[canon|Canon]] — the authority whose care the substance conforms to, but whose word "nihil" the label exceeds.
+- [[matter-meaning-cycle|The Matter–Meaning Cycle]] — one of the two formulations that reflect the nihil.

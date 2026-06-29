@@ -22,6 +22,10 @@ The Telos is the framework's strongest and strangest claim, and the two-axis edi
 
 The Telos is the only term living on both faces of the architecture. It is the first member of the loop of complete sets — the One that anchors the cycle — *and* the integral of the turning [[the-ring|epigraph-ring]], what all the pinning is finally *for*: *the end is not on top of the act; the end is what the act comes to.* This sum-of-the-act pairing is flagged **treatise-side** rather than canonical. There is also a present-tense reading — the Telos as a fixed point one *occupies now* every time one carries structure forward; that occupied-now insight is the proper owner of a gloss once mis-filed under [[fregorek|Fregorek]].
 
+## The telos's dynamic face: engine, not only anchor
+
+The telos is not only the static fixed point true *of* the something; once meaning *can* persist, it **drives** the something. Persistence-by-persisting, iterated *given time*, **bootstraps**: unexperienced meaning compounds until it crosses into *experienced* meaning — so experienced meaning is **late**, the tautology's *output*, not its premise. And the telos *bounds* the something: **when the telos ends, so does the somethingness** — "nothing" is not a place that remains but the absence the whole edifice was the silhouette against (see [[nihil|nihil]]). This is mortality in the deepest sense — the world's finitude is *identical with* the telos's, not a death *within* the world. The static (tautological) face is treated under [[constitutive-identification|constitutive identification]]; the minimal-complete *formulation* of this becoming is [[matter-meaning-cycle|the matter–meaning cycle]].
+
 > **Formal status.** **E:** Derived, authority-canonical — restated in identical content by seed, canon, and this edition; contestable by contesting the authority. (Its status-as-tautology mark is frame-internal/tautological [[frame-internal-tier|FT]]; the sum-of-the-act pairing is [[carving-tier|treatise-side CV]].) **A:** It aspires to map what every particular end is finally oriented toward, and the convergence of canon, seed, and edition on it is the corroboration of that mapping. **Provenance:** canonical, with one treatise-side pairing.
 
 ## See also
@@ -34,3 +38,6 @@ The Telos is the only term living on both faces of the architecture. It is the f
 - [[continuity|Continuity]] — preservation plus reconciliation carrying structure across time.
 - [[the-ring|The Ring]] — the epigraph-ring whose integral the Telos is.
 - [[derived|Derived]] — the single epistemic status the Telos does not escape.
+- [[matter-meaning-cycle|The Matter–Meaning Cycle]] — the Telos's minimal-complete formulation (matter↔meaning).
+- [[why-how-inversion|The Why/How Inversion]] — the why-closes / how-is-the-work orientation the Telos answers.
+- [[self-application|Self-Application]] — the apparatus, including the Telos's status-claim, applied to itself.

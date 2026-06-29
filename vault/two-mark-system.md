@@ -37,6 +37,10 @@ The two-mark system is the engine room of the framework's whole epistemic discip
 - Thinking the two marks predict each other. They do not; the columns are independent by design (see [[two-axis-ledger|the two-axis ledger]]).
 - Treating glosses as ordinary marked claims. They are the sole exception: they inherit accuracy, never assert it.
 
+## Open question: is the apparatus an exempt level?
+
+This page describes the apparatus as "a gate that enforces the marks, **not a marked row of its own**" — one that "makes no claim of its own." [[self-application|Self-application]] holds that the apparatus admits **no exempt level**: every claim, including *that contestability should govern*, is itself marked and contestable. These two statements stand in genuine tension, and the framework's own discipline forbids closing it from inside. Two readings are live: **(1)** "enforces but is not a row" is a harmless *type/level* remark (a scoreboard is not a player), leaving the gate contestable at the meta-level — self-application holds without remainder; or **(2)** a gate that "makes no claim of its own" is doing what no other claim may, and that asymmetry is a real exempt level not yet absorbed. The reconciliation is **Open**, pending the controlling authority. See [[self-application|Self-Application]].
+
 > **Formal status.** *Preamble (Part 0a).* Exposition / structural rule — the two-mark system is the *convention* by which load-bearing claims receive their E and A marks; it is not itself a marked world-claim. (Glosses are its named exception: they inherit, never assert, an alethic mark.)
 > Provenance: **canonical** — the two-mark marking discipline the benchmark requires.
 
@@ -48,3 +52,4 @@ The two-mark system is the engine room of the framework's whole epistemic discip
 - [[human-gloss|The Human Gloss]] — the named exception that inherits rather than asserts a mark.
 - [[semblance|Semblance (not possession)]] — what every alethic mark ultimately aspires to.
 - [[kill-table|The Kill-Table]] — what would refute each claim on each axis.
+- [[self-application|Self-Application]] — the no-exempt-level principle this open question belongs to.

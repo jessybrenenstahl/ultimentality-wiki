@@ -2,7 +2,7 @@
 
 > **One framework, not four glued together:** a theology of roles, a control-theory of emotion, an epistemics of semblance, and an architecture of externalized memory — coherent because they *fit*, not because they were decreed.
 
-This wiki gives one page to every term, topic, and component of Ultimentality (Two-Axis Edition). Each page is faithful to the source treatise: nothing is added, nothing load-bearing is dropped, and every load-bearing claim carries its two marks — **E** (epistemic: *Derived*, at a contestability tier) and **A** (alethic: mapping-accuracy aspiration).
+This wiki gives one page to every term, topic, and component of Ultimentality (Two-Axis Edition). Each page is faithful to the source treatise — nothing load-bearing dropped, nothing silently added — and every load-bearing claim carries its two marks: **E** (epistemic: *Derived*, at a contestability tier) and **A** (alethic: mapping-accuracy aspiration). A set of explicitly **treatise-side extension** pages develops the framework beyond the restatement; each is flagged as such in its Formal status and held contestable.
 
 **Start here:** [[axiom|The Axiom]] → [[derived|Derived]] → [[two-mark-system|The Two-Mark System]] → [[vls|VLS]] → [[directional-primitives|The Directional Primitives]] → [[force|Force]] → [[splcw|SPLCW]] → [[theodicytes|The Theodicytes]] → [[telos|The Telos]].
 
@@ -86,6 +86,7 @@ The whole edition is governed by one posture: every claim is **Derived**, held a
 - [[no-fourth-argument|The No-Fourth Argument]] · [[captured-propagation|Captured-Propagation]] · [[sterility|Sterility]]
 - [[two-layer-separation|Two-Layer Separation]]
 - Candidate fourth corruptions: [[installed-compulsion|Installed-Compulsion]] · [[answerable-optimizer|The Answerable Optimizer]]
+- [[corruption-stratification|The Corruption-Stratification]] *(treatise-side)*
 
 ## VI. The Telos
 
@@ -95,6 +96,8 @@ The whole edition is governed by one posture: every claim is **Derived**, held a
 - [[constitutive-identification|The Constitutive Identification (conatus)]]
 - [[fregorek|Fregorek]]
 - [[nihil|The Nihil]] · [[mortality-hevel|Mortality / Hevel]]
+- [[matter-meaning-cycle|The Matter–Meaning Cycle]] · [[why-how-inversion|The Why/How Inversion]] *(treatise-side)*
+- [[mathematics|Mathematics]] *(treatise-side)*
 
 ## VII. Provenance & Evidential Status
 
@@ -109,6 +112,7 @@ The whole edition is governed by one posture: every claim is **Derived**, held a
 - [[keystone|The Keystone]]
 - [[falsification-standard|The Falsification Standard (the threefold gate)]]
 - [[kill-table|The Kill-Table]]
+- [[self-application|Self-Application]] *(treatise-side)*
 
 ---
 
